@@ -1,0 +1,586 @@
+Unnamed: 0.1,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month,Day,Hour
+0,0,enjoying beautiful day park, Positive  ,1/15/2023 12:30, User123      , Twitter  , #Nature #Park                            ,15,30, USA      ,2023,1,15,12
+1,1,traffic terrible morning, Negative  ,1/15/2023 8:45, CommuterX    , Twitter  , #Traffic #Morning                        ,5,10, Canada   ,2023,1,15,8
+2,2,finished amazing workout 💪, Positive  ,1/15/2023 15:45, FitnessFan   , Instagram , #Fitness #Workout                        ,20,40, USA        ,2023,1,15,15
+3,3,excited upcoming weekend getaway, Positive  ,1/15/2023 18:20, AdventureX   , Facebook , #Travel #Adventure                       ,8,15, UK       ,2023,1,15,18
+4,4,trying new recipe dinner tonight, Neutral   ,1/15/2023 19:55, ChefCook     , Instagram , #Cooking #Food                           ,12,25, Australia ,2023,1,15,19
+5,5,feeling grateful little things life, Positive  ,1/16/2023 9:10, GratitudeNow , Twitter  , #Gratitude #PositiveVibes              ,25,50, India    ,2023,1,16,9
+6,6,rainy days call cozy blankets hot cocoa, Positive  ,1/16/2023 14:45, RainyDays    , Facebook , #RainyDays #Cozy                         ,10,20, Canada   ,2023,1,16,14
+7,7,new movie release mustwatch, Positive  ,1/16/2023 19:30, MovieBuff    , Instagram , #MovieNight #MustWatch                  ,15,30, USA    ,2023,1,16,19
+8,8,political discussions heating timeline, Negative  ,1/17/2023 8:00, DebateTalk   , Twitter  , #Politics #Debate                       ,30,60, USA      ,2023,1,17,8
+9,9,missing summer vibes beach days, Neutral   ,1/17/2023 12:20, BeachLover   , Facebook , #Summer #BeachDays                      ,18,35, Australia ,2023,1,17,12
+10,10,published new blog post check, Positive  ,1/17/2023 15:15, BloggerX     , Instagram , #Blogging #NewPost                      ,22,45,USA,2023,1,17,15
+11,11,feeling bit weather today, Negative  ,1/18/2023 10:30, WellnessCheck, Twitter  , #SickDay #Health                        ,7,15, Canada   ,2023,1,18,10
+12,12,exploring citys hidden gems, Positive  ,1/18/2023 14:50, UrbanExplorer, Facebook , #CityExplore #HiddenGems                ,12,25, UK       ,2023,1,18,14
+13,13,new year new fitness goals 💪, Positive  ,1/18/2023 18:00, FitJourney   , Instagram , #NewYear #FitnessGoals                  ,28,55, USA        ,2023,1,18,18
+14,14,technology changing way live, Neutral   ,1/19/2023 9:45, TechEnthusiast, Twitter  , #Tech #Innovation                       ,15,30, India    ,2023,1,19,9
+15,15,reflecting past looking ahead, Positive  ,1/19/2023 13:20, Reflections  , Facebook , #Reflection #Future                     ,20,40, USA      ,2023,1,19,13
+16,16,adopted cute furry friend 🐾, Positive  ,1/19/2023 17:10, PetAdopter   , Instagram , #PetAdoption #FurryFriend               ,15,30, Canada    ,2023,1,19,17
+17,17,latenight gaming session friends, Positive  ,1/20/2023 0:05, GamerX       , Twitter  , #Gaming #LateNight                      ,18,35, UK       ,2023,1,20,0
+18,18,attending virtual conference ai, Neutral   ,1/20/2023 11:30, TechConference, Facebook , #AI #TechConference                     ,25,50,USA,2023,1,20,11
+19,19,winter blues got feeling low, Negative  ,1/20/2023 15:15, WinterBlues  , Instagram , #WinterBlues #Mood                      ,8,15, USA       ,2023,1,20,15
+20,20,sipping coffee enjoying good book, Positive  ,1/21/2023 8:40, Bookworm     , Twitter  , #Reading #CoffeeTime                    ,22,45, India    ,2023,1,21,8
+21,21,exploring world virtual reality, Positive  ,1/21/2023 13:20, VRExplorer   , Facebook , #VR #VirtualReality                     ,15,30,USA,2023,1,21,13
+22,22,productive day ticking todo list, Positive  ,1/21/2023 16:45, ProductivityPro, Instagram , #Productivity #WorkFromHome           ,30,60, USA ,2023,1,21,16
+23,23,finished challenging workout routine, Positive  ,1/22/2023 9:15, FitnessWarrior, Twitter  , #Fitness #ChallengeAccepted             ,20,40, UK       ,2023,1,22,9
+24,24,celebrating milestone work 🎉, Positive  ,1/22/2023 14:30, CareerMilestone, Facebook , #Career #Milestone                      ,12,25, Canada  ,2023,1,22,14
+25,25,sunday brunch friends, Positive  ,1/22/2023 12:00, BrunchBuddy  , Instagram , #Brunch #Friends                       ,15,30, UK ,2023,1,22,12
+27,28,learning new language personal growth, Positive  ,1/23/2023 16:20, LanguageLearner, Facebook , #LanguageLearning #PersonalGrowth       ,25,50, India     ,2023,1,23,16
+28,29,quiet evening good book, Positive  ,1/23/2023 19:45, BookLover    , Instagram , #Reading #QuietTime                     ,15,30, Australia ,2023,1,23,19
+29,30,reflecting importance mental health, Positive  ,1/24/2023 11:30, MentalHealthMatters, Twitter  , #MentalHealth #SelfCare                 ,22,45, USA      ,2023,1,24,11
+30,31,new painting progress 🎨, Positive  ,1/24/2023 15:00, ArtistInAction, Facebook , #Art #PaintingInProgress             ,12,25, Canada ,2023,1,24,15
+31,32,weekend road trip explore scenic views, Positive  ,1/24/2023 17:30, RoadTripper  , Instagram , #RoadTrip #ScenicViews                  ,18,35, UK        ,2023,1,24,17
+32,33,enjoying cup tea watching sunset, Positive  ,1/25/2023 18:00, SunsetWatcher, Twitter  , #TeaTime #Sunset                       ,15,30, India    ,2023,1,25,18
+33,34,coding new project enthusiasm, Positive  ,1/25/2023 13:15, CodeEnthusiast, Facebook , #Coding #Enthusiasm                   ,30,60, USA ,2023,1,25,13
+34,35,feeling inspired attending workshop, Positive  ,1/26/2023 9:45, WorkshopAttendee, Instagram , #Inspiration #Workshop                  ,25,50,USA,2023,1,26,9
+35,36,winter sports day local park, Positive  ,1/26/2023 14:20, WinterSports  , Twitter  , #WinterSports #Fun                     ,15,30, Canada   ,2023,1,26,14
+36,37,quality time family weekend, Positive  ,1/26/2023 17:40, FamilyTime   , Facebook , #FamilyTime #Weekend                    ,22,45, UK        ,2023,1,26,17
+37,38,attending live music concert tonight, Positive  ,1/27/2023 20:00, MusicLover   , Instagram , #Music #ConcertNight                  ,18,35, USA ,2023,1,27,20
+38,39,practicing mindfulness meditation, Positive  ,1/27/2023 12:30, MindfulMoments, Twitter  , #Mindfulness #Meditation               ,15,30, India    ,2023,1,27,12
+39,40,trying new dessert recipe, Positive  ,1/27/2023 16:10, DessertExplorer, Facebook , #Dessert #Cooking                      ,12,25, Canada ,2023,1,27,16
+40,41,excited upcoming gaming tournament, Positive  ,1/28/2023 9:00, GamingEnthusiast, Instagram , #Gaming #Tournament                     ,30,60,USA,2023,1,28,9
+41,42,planning garden makeover spring, Positive  ,1/28/2023 14:45, GardenPlanner , Twitter  , #Gardening #Spring                     ,25,50, USA      ,2023,1,28,14
+42,43,celebrating friends birthday tonight 🎂, Positive  ,1/28/2023 19:30, BirthdayBash , Facebook , #Birthday #Celebration                  ,15,30, UK ,2023,1,28,19
+43,44,feeling accomplished productive day, Positive  ,1/29/2023 17:00, ProductivityWin, Instagram , #Accomplished #Success               ,22,45, India ,2023,1,29,17
+44,45,cozy evening good movie, Positive  ,1/29/2023 20:20, MovieNight   , Twitter  , #CozyNight #MovieTime                   ,18,35, Canada   ,2023,1,29,20
+45,46,exploring local art galleries weekend, Positive  ,1/30/2023 11:30, ArtExplorer  , Facebook , #Art #GalleryExplore                    ,15,30, USA      ,2023,1,30,11
+46,47,new book release favorite author, Positive  ,1/30/2023 15:45, BookwormX    , Instagram , #BookRelease #FavoriteAuthor           ,12,25, UK   ,2023,1,30,15
+47,48,attending virtual reality meetup, Positive  ,1/30/2023 18:30, VRMeetup     , Twitter  , #VRMeetup #VirtualReality               ,28,55, India    ,2023,1,30,18
+48,49,reflecting beauty nature, Positive  ,1/31/2023 10:45, NatureLover  , Facebook , #Nature #Reflection                     ,15,30, Australia ,2023,1,31,10
+49,50,cooking special dinner loved ones, Positive  ,1/31/2023 19:00, ChefAtHome   , Instagram , #Cooking #SpecialDinner                ,20,40, USA       ,2023,1,31,19
+50,51,feeling optimistic week ahead, Positive  ,1/31/2023 16:20, OptimisticMindset, Twitter  , #Optimism #NewWeek                     ,15,30, Canada   ,2023,1,31,16
+51,52,starting new fitness challenge tomorrow 💪, Positive  ,2/1/2023 8:00, FitnessChallenge, Facebook , #FitnessChallenge #NewBeginnings       ,22,45, UK         ,2023,2,1,8
+52,53,sunday bike ride scenic trails, Positive  ,2/1/2023 13:30, BikeExplorer  , Instagram , #BikeRide #ScenicTrails                ,18,35, USA     ,2023,2,1,13
+53,55,cant believe injustice happening society, Anger        ,2/11/2023 9:30, SocialJustice   , Twitter  , #Injustice #Angry                            ,20,40, Canada     ,2023,2,11,9
+54,56,feeling sense fear watching thriller movie, Fear         ,2/11/2023 21:15, ThrillerFan     , Instagram , #Fear #ThrillerMovie                         ,15,30, USA          ,2023,2,11,21
+55,57,heartbroken hearing news natural disaster, Sadness      ,2/12/2023 14:45, EmpathyFirst    , Facebook , #Sadness #NaturalDisaster                    ,25,50, India      ,2023,2,12,14
+56,58,state worlds environment disgusting, Disgust      ,2/12/2023 18:20, EcoAwareness    , Twitter  , #Disgust #Environment                        ,18,35, UK         ,2023,2,12,18
+57,59,pure happiness celebrating loved ones achievement, Happiness    ,2/13/2023 10:00, ProudFriend     , Instagram , #Happiness #Celebration                   ,30,60, USA ,2023,2,13,10
+58,60,laughter best medicine—enjoying comedy show, Joy          ,2/13/2023 19:30, ComedyFan       , Facebook , #Joy #ComedyShow                             ,22,45, Canada    ,2023,2,13,19
+59,61,sharing love positive vibes everyone ❤️, Love         ,2/14/2023 8:30, LoveSpreader    , Twitter  , #Love #SpreadLove                            ,15,30, Australia  ,2023,2,14,8
+60,62,amusing incident brightened day, Amusement    ,2/14/2023 14:20, AmusedSoul      , Instagram , #Amusement #FunTimes                         ,18,35, UK           ,2023,2,14,14
+61,63,enjoying quiet evening book tea, Enjoyment    ,2/14/2023 19:45, BookLoverAgain  , Facebook , #Enjoyment #BookTime                         ,25,50, Canada       ,2023,2,14,19
+62,64,admiring beauty nature peaceful hike, Admiration   ,2/15/2023 11:30, NatureAdmirer   , Twitter  , #Admiration #Nature                         ,20,40, USA       ,2023,2,15,11
+63,65,sending affectionate vibes followers, Affection    ,2/15/2023 16:00, AffectionSender , Instagram , #Affection #PositiveVibes                   ,15,30,USA,2023,2,15,16
+64,66,experiencing awe breathtaking sunset, Awe          ,2/15/2023 20:30, AweStruck       , Facebook , #Awe #Breathtaking                          ,22,45, Australia   ,2023,2,15,20
+65,67,disappointed service local restaurant, Disappointed ,2/16/2023 9:00, FoodieGoneWrong , Twitter  , #Disappointed #BadService                   ,18,35, India      ,2023,2,16,9
+66,68,surprise gift friend made day, Surprise     ,2/16/2023 14:45, HappySurprise   , Instagram , #Surprise #Gift                              ,25,50, USA          ,2023,2,16,14
+67,69,finding acceptance midst lifes challenges, Acceptance   ,2/16/2023 18:20, AcceptanceSeeker, Facebook , #Acceptance #Challenges                     ,15,30, Canada     ,2023,2,16,18
+68,70,overflowing adoration adorable pet 🐾, Adoration    ,2/17/2023 10:45, PetAdorer       , Twitter  , #Adoration #PetLove                         ,22,45, UK        ,2023,2,17,10
+69,71,anticipating thrilling adventure coming weeks, Anticipation ,2/17/2023 7:30, AdventureAwaits  , Instagram , #Anticipation #Adventure                    ,20,40,USA,2023,2,17,7
+70,72,bitter experience turned valuable lesson, Bitter       ,2/17/2023 15:00, LearnFromBitter , Facebook , #BitterLesson #Growth                      ,18,35, USA       ,2023,2,17,15
+71,73,finding calmness midst busy day, Calmness     ,2/18/2023 9:30, ZenMaster       , Twitter  , #Calmness #PeacefulMind                    ,15,30, India     ,2023,2,18,9
+72,74,confusion clouds mind navigate decisions, Confusion    ,2/18/2023 14:20, ConfusedMind    , Instagram , #Confusion #DecisionMaking                 ,25,50, UK   ,2023,2,18,14
+73,75,excitement building upcoming vacation, Excitement   ,2/18/2023 18:45, VacationDreamer , Facebook , #Excitement #TravelPlans                   ,22,45, Canada    ,2023,2,18,18
+74,76,kindness witnessed today restored faith humanity, Kind         ,2/19/2023 11:30, KindnessPrevails, Twitter  , #Kindness #Humanity                        ,20,40, USA       ,2023,2,19,11
+75,77,pride achieving personal milestone, Pride        ,2/19/2023 16:00, PersonalAchiever, Instagram , #Pride #Milestone                           ,30,60, Australia    ,2023,2,19,16
+76,78,moment shame standing injustice, Shame        ,2/19/2023 19:45, ReflectiveSelf  , Facebook , #Shame #Injustice                           ,15,30, India      ,2023,2,19,19
+77,79,fuming anger heated argument, Anger        ,2/20/2023 9:30, AngryDebater    , Twitter  , #Anger #Argument                             ,20,40, Canada     ,2023,2,20,9
+78,80,fear unknown keeping night, Fear         ,2/20/2023 21:15, FearfulDreamer  , Instagram , #Fear #Unknown                               ,15,30, USA          ,2023,2,20,21
+79,81,heartfelt sadness bidding farewell dear friend, Sadness      ,2/21/2023 14:45, FarewellHeart   , Facebook , #Sadness #Farewell                          ,25,50, India      ,2023,2,21,14
+80,82,state corruption society utterly disgusting, Disgust      ,2/21/2023 18:20, AntiCorruption  , Twitter  , #Disgust #Corruption                         ,18,35, UK         ,2023,2,21,18
+81,83,overflowing happiness welcoming new family member, Happiness    ,2/22/2023 10:00, NewParentJoy    , Instagram , #Happiness #NewFamilyMember                 ,30,60, UK           ,2023,2,22,10
+82,84,laughter key joy—attending standup comedy show, Joy          ,2/22/2023 19:30, StandUpFan      , Facebook , #Joy #StandUpComedy                         ,22,45, Canada    ,2023,2,22,19
+83,85,sending love followers beautiful day ❤️, Love         ,2/23/2023 8:30, LoveSender      , Twitter  , #Love #SpreadLove                            ,15,30, Australia  ,2023,2,23,8
+84,86,amused antics pet—its pure amusement, Amusement    ,2/23/2023 14:20, PetAmuser       , Instagram , #Amusement #PetAntics                       ,18,35, UK           ,2023,2,23,14
+85,87,enjoying every moment trip—pure enjoyment, Enjoyment    ,2/23/2023 19:45, TravelExplorer  , Facebook , #Enjoyment #Travel                           ,25,50, USA ,2023,2,23,19
+86,88,admiring dedication volunteers local charity, Admiration   ,2/24/2023 11:30, CharityAdmirer  , Twitter  , #Admiration #Volunteers                     ,20,40, USA        ,2023,2,24,11
+87,89,sending affectionate vibes friends family, Affection    ,2/24/2023 16:00, FamilyLover     , Instagram , #Affection #FamilyLove                      ,15,30,USA,2023,2,24,16
+88,90,awestruck beauty night sky, Awe          ,2/24/2023 20:30, Stargazer       , Facebook , #Awe #StarryNight                        ,22,45, Australia ,2023,2,24,20
+89,91,disappointed lack progress personal project, Disappointed ,2/25/2023 9:00, ProjectStruggle , Twitter  , #Disappointed #Project                     ,18,35, India      ,2023,2,25,9
+90,92,surprise visit old friend brought tears joy, Surprise     ,2/25/2023 14:45, JoyfulReunion   , Instagram , #Surprise #OldFriends                       ,25,50, USA          ,2023,2,25,14
+91,93,embracing acceptance lifes ups downs, Acceptance   ,2/25/2023 18:20, LifeAcceptance  , Facebook , #Acceptance #LifeJourney                   ,15,30, Canada     ,2023,2,25,18
+92,94,overflowing adoration cute rescue puppy 🐶, Adoration    ,2/26/2023 10:45, PuppyAdmirer    , Twitter  , #Adoration #PuppyLove                       ,22,45, UK         ,2023,2,26,10
+93,95,anticipating release muchawaited movie, Anticipation ,2/26/2023 7:30, MovieBuff2      , Instagram , #Anticipation #MovieRelease                 ,20,40, Australia    ,2023,2,26,7
+94,96,bitter experience customer service department, Bitter       ,2/26/2023 15:00, CustomerWoes    , Facebook , #BitterExperience #CustomerService         ,18,35, USA       ,2023,2,26,15
+95,97,finding calmness amidst chaos daily life, Calmness     ,2/27/2023 9:30, CalmSoul        , Twitter  , #Calmness #InnerPeace                      ,15,30, India     ,2023,2,27,9
+96,98,confusion reigns try make sense recent events, Confusion    ,2/27/2023 14:20, ConfusedMind2   , Instagram , #Confusion #MakingSense                    ,25,50, UK   ,2023,2,27,14
+97,99,excitement building surprise birthday party, Excitement   ,2/27/2023 18:45, BirthdayExcite  , Facebook , #Excitement #SurpriseParty                 ,22,45, Canada ,2023,2,27,18
+98,100,witnessed act kindness made day, Kind         ,2/28/2023 11:30, KindnessObserver, Twitter  , #Kindness #ActsOfKindness                  ,20,40, USA       ,2023,2,28,11
+99,101,pride completing challenging fitness challenge, Pride        ,2/28/2023 16:00, FitAchiever     , Instagram , #Pride #FitnessChallengeCompleted          ,30,60, UK            ,2023,2,28,16
+100,102,moment shame speaking injustice, Shame        ,2/28/2023 19:45, ReflectiveSelf2 , Facebook , #Shame #Injustice                           ,15,30, India     ,2023,2,28,19
+101,103,reflecting beauty diversity world, Acceptance   ,3/1/2023 10:45, DiversityLover  , Twitter  , #Acceptance #Diversity                      ,22,45, Australia ,2023,3,1,10
+102,104,excitement quiet evening good book, Excitement   ,3/1/2023 13:30, BookwormJoy     , Instagram , #Excitement #BookTime                       ,18,35, USA          ,2023,3,1,13
+103,105,feeling bitter unfairness workplace, Bitter       ,3/1/2023 17:45, WorkplaceWoes   , Twitter  , #Bitter #Unfairness                         ,15,30, Canada    ,2023,3,1,17
+104,106,calmness prevails practice mindfulness, Calmness     ,3/2/2023 18:00, MindfulMe       , Facebook , #Calmness #Mindfulness                      ,15,30, UK        ,2023,3,2,18
+105,107,confusion surrounds navigate lifes choices, Confusion ,3/2/2023 13:15, ConfusedMind3   , Instagram , #Confusion #LifeChoices                     ,30,60, USA   ,2023,3,2,13
+106,108,excitement weekend road trip explore new places, Excitement ,3/2/2023 16:45, RoadTripper2    , Twitter  , #Excitement #WeekendAdventure               ,25,50, India     ,2023,3,2,16
+107,109,kindness witnessed today restores faith humanity, Kind         ,3/3/2023 11:30, KindnessPrevails2, Facebook , #Kindness #HumanityRestored                 ,22,45, USA       ,2023,3,3,11
+108,110,pride accomplishing personal professional goals, Pride        ,3/3/2023 14:30, GoalAchiever    , Instagram , #Pride #Accomplishments                     ,12,25, Canada ,2023,3,3,14
+109,111,shame true values difficult situation, Shame ,3/3/2023 12:00, ReflectiveSelf3 , Twitter  , #Shame #Integrity                           ,15,30, UK        ,2023,3,3,12
+110,112,revisiting old memories feeling sense elation, Elation       ,5/15/2010 15:30, NostalgiaFan    , Twitter  , #Elation #Memories                             ,20,40, Canada    ,2010,5,15,15
+111,113,victory team brought euphoria city, Euphoria      ,8/10/2021 21:15, SportsFanatic   , Instagram , #Euphoria #Victory                             ,15,30, USA      ,2021,8,10,21
+112,114,embracing beauty nature moment contentment, Contentment   ,6/20/2011 14:45, NatureLover2    , Facebook , #Contentment #Nature                           ,25,50, India       ,2011,6,20,14
+113,115,meditating serene lake finding inner peace, Serenity      ,2/12/2022 18:20, ZenMaster2      , Twitter  , #Serenity #Meditation                          ,18,35, UK          ,2022,2,12,18
+114,116,overflowing gratitude lifes blessings, Gratitude     ,11/25/2012 10:00, ThankfulHeart   , Instagram , #Gratitude #Blessed                            ,30,60, Australia   ,2012,11,25,10
+115,117,hopeful brighter tomorrow despite challenges, Hope          ,4/5/2013 19:30, OptimisticSoul  , Facebook , #Hope #Optimism                                ,22,45, USA      ,2013,4,5,19
+116,118,empowered make difference community, Empowerment   ,9/14/2014 8:30, CommunityLeader , Twitter  , #Empowerment #Community                        ,15,30, UK       ,2014,9,14,8
+117,119,compassion action supporting local charity event, Compassion    ,7/18/2015 14:20, CharitySupporter, Instagram , #Compassion #CharityEvent                   ,18,35, Canada ,2015,7,18,14
+118,120,moment tenderness connecting loved ones, Tenderness    ,2/23/2016 19:45, LovingHeart     , Facebook , #Tenderness #FamilyTime                       ,25,50, UK          ,2016,2,23,19
+119,121,arousal excitement await special announcement, Arousal       ,10/30/2017 11:30, ExcitementFan   , Twitter  , #Arousal #Excitement                           ,20,40, Australia ,2017,10,30,11
+120,122,enthusiastically diving new project, Enthusiasm    ,6/15/2018 16:00, ProjectEnthusiast, Instagram , #Enthusiasm #NewProject                       ,15,30, USA  ,2018,6,15,16
+121,123,feeling sense fulfillment reaching milestone, Fulfillment  ,3/28/2019 18:20, MilestoneAchiever, Facebook , #Fulfillment #Milestone                       ,22,45, India     ,2019,3,28,18
+122,124,reverence beauty historic landmark, Reverence     ,11/11/2019 15:00, HistoryLover    , Twitter  , #Reverence #History                           ,18,35, UK      ,2019,11,11,15
+123,125,elation surprise reunion old friends, Elation       ,4/2/2020 9:30, JoyfulReunion2  , Instagram , #Elation #OldFriends                          ,25,50, Canada      ,2020,4,2,9
+124,126,euphoria live music concert stars, Euphoria      ,6/19/2021 14:45, MusicEnthusiast , Facebook , #Euphoria #LiveMusic                          ,15,30, USA ,2021,6,19,14
+125,127,contentment simplicity quiet sunday, Contentment   ,8/15/2010 10:00, SimpleJoys      , Twitter  , #Contentment #SundayMood                      ,30,60, Australia ,2010,8,15,10
+126,128,serenity found pages favorite book, Serenity      ,9/22/2011 19:30, BookLover3      , Instagram , #Serenity #BookTime                           ,22,45, UK          ,2011,9,22,19
+127,129,gratitude support received tough times, Gratitude     ,3/10/2012 8:30, SupportiveFriend, Facebook , #Gratitude #Supportive                        ,15,30, India     ,2012,3,10,8
+128,130,hopeful possibilities new journey, Hope          ,12/5/2013 16:00, JourneyOptimist , Twitter  , #Hope #NewBeginnings                          ,18,35, Canada    ,2013,12,5,16
+129,131,empowerment learning personal growth, Empowerment   ,7/20/2014 11:30, GrowthSeeker    , Instagram , #Empowerment #PersonalGrowth                  ,25,50,USA,2014,7,20,11
+130,132,compassion towards need holidays, Compassion    ,12/22/2015 14:20, HolidayHelper   , Facebook , #Compassion #HolidaySupport                   ,18,35, USA      ,2015,12,22,14
+131,133,tenderness warmth cozy winter evening, Tenderness    ,2/10/2016 19:45, WinterWarmth    , Twitter  , #Tenderness #CozyEvening                     ,25,50, UK       ,2016,2,10,19
+132,134,arousal excitement upcoming adventure, Arousal       ,4/30/2017 11:30, AdventureAwaits , Instagram , #Arousal #AdventureTime                       ,20,40, Australia ,2017,4,30,11
+133,135,enthusiasm creative project making, Enthusiasm    ,9/15/2018 16:00, CreativeSpirit  , Facebook , #Enthusiasm #Creativity                       ,15,30, Canada    ,2018,9,15,16
+134,136,fulfillment completing challenging workout routine, Fulfillment  ,6/28/2019 18:20, FitnessAchiever , Twitter  , #Fulfillment #FitnessGoals                   ,22,45, India     ,2019,6,28,18
+135,137,reverence artistry displayed museum, Reverence     ,11/11/2020 15:00, ArtAppreciator  , Instagram , #Reverence #ArtAppreciation                  ,18,35, UK        ,2020,11,11,15
+136,138,elation achieving personal goal, Elation       ,3/2/2021 9:30, GoalAchiever2   , Facebook , #Elation #PersonalAchievement                ,25,50, USA      ,2021,3,2,9
+137,139,elation discovering hidden gem city, Elation       ,2/18/2012 14:30, UrbanExplorer2  , Twitter  , #Elation #HiddenGem                            ,20,40, USA      ,2012,2,18,14
+138,140,euphoria surprise birthday celebration, Euphoria      ,11/5/2018 21:45, BirthdayJoy     , Instagram , #Euphoria #BirthdaySurprise                   ,15,30, UK   ,2018,11,5,21
+139,141,contentment simplicity homecooked meal, Contentment   ,9/12/2015 13:20, HomeChef        , Facebook , #Contentment #HomeCooking                     ,25,50, India    ,2015,9,12,13
+140,142,serenity found melody peaceful piano, Serenity      ,7/30/2016 18:10, MusicLover4     , Twitter  , #Serenity #PeacefulMelody                    ,18,35, Canada      ,2016,7,30,18
+141,143,gratitude supportive community around, Gratitude     ,4/20/2013 10:30, CommunityLove   , Instagram , #Gratitude #CommunitySupport                   ,30,60, USA ,2013,4,20,10
+142,144,hopeful prospects new business venture, Hope          ,12/8/2017 19:15, EntrepreneurHope, Facebook , #Hope #BusinessVenture                        ,22,45, Canada    ,2017,12,8,19
+143,145,empowerment mentoring guiding others, Empowerment   ,6/3/2014 8:20, MentorEmpower   , Twitter  , #Empowerment #Mentorship                      ,15,30, UK       ,2014,6,3,8
+144,146,compassion shown acts kindness community, Compassion,1/15/2019 14:50, KindnessInAction, Instagram , #Compassion #CommunityKindness               ,18,35, Australia ,2019,1,15,14
+145,147,tenderness heartfelt message loved one, Tenderness    ,12/25/2016 19:30, LoveExpress     , Facebook , #Tenderness #LoveNote                         ,25,50, UK          ,2016,12,25,19
+146,148,arousal excitement muchawaited trip, Arousal       ,3/10/2018 9:45, TravelExcitement, Twitter  , #Arousal #TravelAdventure                     ,20,40, India    ,2018,3,10,9
+147,149,enthusiasm new artistic project works, Enthusiasm    ,9/17/2020 16:30, ArtisticSpirit  , Instagram , #Enthusiasm #ArtisticProject                 ,15,30, USA       ,2020,9,17,16
+148,150,feeling sense fulfillment helping others, Fulfillment   ,8/28/2011 18:45, HelperHeart     , Facebook , #Fulfillment #HelpingOthers                  ,22,45, Canada    ,2011,8,28,18
+149,151,reverence historical significance landmark, Reverence ,11/1/2017 15:30, HistoryBuff     , Twitter  , #Reverence #HistoricalSite                   ,18,35, Australia ,2017,11,1,15
+150,152,elation achieving fitness milestone, Elation       ,6/15/2019 10:00, FitnessAchiever2, Instagram , #Elation #FitnessMilestone                   ,25,50, UK           ,2019,6,15,10
+151,153,euphoria successful product launch, Euphoria      ,4/3/2022 11:45, ProductLaunchJoy, Facebook , #Euphoria #ProductLaunchSuccess              ,15,30, USA       ,2022,4,3,11
+152,154,contentment embrace loved one, Contentment   ,11/12/2010 20:20, LovingEmbrace   , Twitter  , #Contentment #Love                             ,30,60, India    ,2010,11,12,20
+153,155,serenity found beauty sunset sea, Serenity      ,7/22/2011 18:30, SunsetWatcher2  , Instagram , #Serenity #SunsetViews                       ,22,45, Canada     ,2011,7,22,18
+154,156,gratitude small joys day brings, Gratitude     ,3/30/2012 11:20, JoyfulHeart2    , Facebook , #Gratitude #SmallJoys                        ,15,30, Australia   ,2012,3,30,11
+155,157,hopeful potential personal growth, Hope          ,10/5/2013 16:40, GrowthOptimist  , Twitter  , #Hope #PersonalDevelopment                    ,18,35, UK       ,2013,10,5,16
+156,158,empowerment learning new skill, Empowerment   ,7/10/2014 13:15, SkillEmpower    , Instagram , #Empowerment #SkillBuilding                   ,25,50, India   ,2014,7,10,13
+157,159,compassion volunteering local charity, Compassion    ,12/18/2015 14:20, CharityVolunteer, Facebook , #Compassion #VolunteerWork                   ,18,35, USA      ,2015,12,18,14
+158,160,tenderness quiet moment shared pet, Tenderness    ,2/10/2016 19:45, PetLove         , Twitter  , #Tenderness #PetLove                          ,25,50, Canada   ,2016,2,10,19
+159,161,arousal excitement upcoming festival, Arousal       ,9/25/2017 11:30, FestivalFan     , Instagram , #Arousal #FestivalExcitement               ,20,40, UK ,2017,9,25,11
+160,162,enthusiasm diy home improvement project, Enthusiasm    ,4/15/2018 16:00, DIYEnthusiast   , Facebook , #Enthusiasm #HomeImprovement                 ,15,30, Australia   ,2018,4,15,16
+161,163,fulfillment completing challenging puzzle, Fulfillment   ,11/28/2019 18:20, PuzzleMaster    , Twitter  , #Fulfillment #PuzzleChallenge                ,22,45, India    ,2019,11,28,18
+162,164,reverence wonders nature hiking trail, Reverence ,5/11/2020 15:00, NatureAdmirer   , Instagram , #Reverence #NatureExploration                ,18,35, USA        ,2020,5,11,15
+163,165,elation surprise reunion childhood friend, Elation   ,2/5/2021 9:30, ChildhoodJoy    , Facebook , #Elation #FriendshipReunion                  ,25,50, Canada      ,2021,2,5,9
+164,166,suffering despair another setback, Despair         ,3/10/2021 8:30, StrugglingSoul    , Twitter  , #Despair #Struggle                              ,5,10, USA          ,2021,3,10,8
+165,167,overwhelmed grief missing loved one dearly, Grief           ,7/5/2022 15:45, MourningHeart     , Instagram , #Grief #Loss                                   ,8,15, Canada          ,2022,7,5,15
+166,168,loneliness creeps night grows colder, Loneliness      ,11/18/2019 21:20, SolitarySoul      , Facebook , #Loneliness #Isolation                         ,10,20, UK           ,2019,11,18,21
+167,169,jealousy consumes witness others success, Jealousy        ,8/12/2020 11:30, EnviousObserver   , Twitter  , #Jealousy #Envy                               ,12,25, India        ,2020,8,12,11
+168,170,resentment building past betrayals, Resentment      ,5/22/2018 14:45, BitterHeart       , Instagram , #Resentment #Bitterness                       ,7,15, Australia     ,2018,5,22,14
+169,171,frustration mounts obstacles block path, Frustration     ,1/30/2017 16:10, BlockedGoals      , Facebook , #Frustration #Obstacles                       ,10,20, USA          ,2017,1,30,16
+170,172,boredom sets day feels endlessly dull, Boredom         ,9/28/2016 19:45, BoredMind         , Twitter  , #Boredom #LackOfInterest                     ,8,15, Canada        ,2016,9,28,19
+171,173,anxiety grips heart worry clouds thoughts, Anxiety         ,4/15/2019 9:00, WorriedMind       , Instagram , #Anxiety #Worry                               ,12,25, UK           ,2019,4,15,9
+172,174,intimidation unknown future ahead, Intimidation    ,12/3/2021 18:30, FearfulSoul       , Facebook , #Intimidation #Fear                           ,15,30, India        ,2021,12,3,18
+173,175,helplessness sinks challenges pile, Helplessness    ,6/20/2020 14:20, OverwhelmedHeart  , Twitter  , #Helplessness #Overwhelmed                    ,8,15, Australia    ,2020,6,20,14
+174,176,envy eats away see others prosperity, Envy            ,11/7/2018 11:30, CovetousMind     , Instagram , #Envy #Desire                                ,10,20, Canada        ,2018,11,7,11
+175,177,regret missed opportunities haunts thoughts, Regret         ,8/25/2017 16:00, RemorsefulSoul   , Facebook , #Regret #MissedChances                       ,12,25, UK           ,2017,8,25,16
+176,178,disgust sight injustice cruelty, Disgust         ,2/11/2019 9:45, DisgustedHeart   , Twitter  , #Disgust #Injustice                          ,7,15, India        ,2019,2,11,9
+177,179,drowning despair hope slipping fingers, Despair      ,4/2/2016 20:20, HopelessHeart    , Instagram , #Despair #Hopeless                           ,10,20, USA          ,2016,4,2,20
+178,180,grief weighs heavy tears constant companion, Grief           ,10/18/2015 15:30, TearfulSoul      , Facebook , #Grief #Tears                                ,12,25, Canada        ,2015,10,18,15
+179,181,loneliness crowded room silent cry connection, Loneliness ,7/12/2019 18:10, IsolatedMind     , Twitter  , #Loneliness #SeekingConnection              ,15,30, UK            ,2019,7,12,18
+180,182,jealousy gnaws confidence toxic emotion, Jealousy        ,6/3/2018 16:30, SelfDoubt        , Instagram , #Jealousy #Insecurity                       ,8,15, India         ,2018,6,3,16
+181,183,resentment festers poisoning relationships, Resentment      ,1/15/2022 12:00, BrokenTrust      , Facebook , #Resentment #BrokenTrust                     ,10,20, Australia    ,2022,1,15,12
+182,184,frustration boils volcanic eruption emotions, Frustration ,4/10/2017 14:45, ExplosiveMind    , Twitter  , #Frustration #EmotionalOutburst             ,12,25, USA          ,2017,4,10,14
+183,185,boredom settles like dust life feels mundane, Boredom         ,11/28/2016 19:00, MundaneHeart     , Instagram , #Boredom #Monotony                          ,7,15, Canada        ,2016,11,28,19
+184,186,anxiety grips chest relentless grip thoughts, Anxiety   ,9/5/2018 9:30, RestlessMind     , Facebook , #Anxiety #Restlessness                      ,10,20, UK            ,2018,9,5,9
+185,187,intimidation challenges ahead fear takes hold, Intimidation ,10/22/2021 18:30, FearfulJourney   , Twitter  , #Intimidation #FacingFear                   ,15,30, India         ,2021,10,22,18
+186,188,helplessness engulfs drowning sea problems, Helplessness ,5/8/2019 14:20, OverwhelmedSoul  , Instagram , #Helplessness #Struggling                   ,8,15, Australia    ,2019,5,8,14
+187,189,envy poisons thoughts coveting others success, Envy            ,3/20/2017 11:30, GreenEyedMonster , Facebook , #Envy #Success                              ,10,20, Canada        ,2017,3,20,11
+188,190,regret decisions led painful present, Regret         ,12/15/2018 16:00, RegretfulMind    , Twitter  , #Regret #PastChoices                        ,12,25, USA          ,2018,12,15,16
+189,191,disgust corruption stains society, Disgust         ,7/1/2016 9:45, CorruptedHeart   , Instagram , #Disgust #Corruption                        ,7,15, UK            ,2016,7,1,9
+190,192,sinking despair day darker last, Despair         ,8/20/2020 20:20, DrowningSoul     , Facebook , #Despair #DarkDays                          ,10,20, India         ,2020,8,20,20
+191,193,grief overwhelms storm emotions within, Grief           ,2/25/2021 15:30, StormyHeart      , Twitter  , #Grief #EmotionalStorm                      ,12,25, Canada        ,2021,2,25,15
+192,194,loneliness echoes empty spaces yearning connection, Loneliness ,9/12/2019 18:10, EchoingSoul     , Instagram , #Loneliness #YearningForConnection         ,15,30, Australia     ,2019,9,12,18
+193,195,jealousy poisons thoughts resentment brewing within, Jealousy    ,8/5/2018 16:30, PoisonedMind    , Facebook , #Jealousy #Resentment                       ,8,15, USA           ,2018,8,5,16
+194,196,resentment festers wound refuses heal, Resentment      ,1/12/2017 12:00, UnforgivingSoul  , Twitter  , #Resentment #Unforgiving                    ,10,20, India         ,2017,1,12,12
+195,197,frustration escalates thunderstorm emotions, Frustration     ,4/5/2022 14:45, ThunderingMind   , Instagram , #Frustration #EmotionalOutburst            ,12,25, UK            ,2022,4,5,14
+196,198,boredom lingers stagnant pool indifference, Boredom         ,10/2/2021 19:00, StagnantHeart    , Facebook , #Boredom #Stagnation                        ,7,15, Canada        ,2021,10,2,19
+197,199,embarking journey discovery fueled curiosity thirst knowledge, Curiosity       ,4/15/2023 10:15, InquisitiveMind   , Twitter  , #Curiosity #Learning                        ,15,30, USA          ,2023,4,15,10
+198,200,lost vast sea information indifferent wave digital ocean, Indifference    ,11/28/2022 17:30, ApatheticObserver , Instagram , #Indifference #DigitalOverload              ,7,15, Canada          ,2022,11,28,17
+199,201,complex puzzle life leaves state perpetual confusion seeking answers chaos, Confusion       ,4/2/2020 9:45, SeekingClarity    , Facebook , #Confusion #LifePuzzle                     ,10,20, UK           ,2020,4,2,9
+200,202,numbness settles shield overwhelming emotions life throws way, Numbness        ,8/10/2021 14:00, EmotionallyDistant , Twitter  , #Numbness #EmotionalShield                 ,8,15, India        ,2021,8,10,14
+201,203,gazing sunset melancholic longing moments slip fingers time, Melancholy      ,6/18/2019 20:45, SunsetDreamer     , Instagram , #Melancholy #SunsetMoments                 ,12,25, Australia     ,2019,6,18,20
+202,204,revisiting old photographs caught embrace nostalgias bittersweet symphony, Nostalgia       ,2/5/2018 15:15, MemoryLaneTraveler , Facebook , #Nostalgia #MemoryLane                     ,10,20, USA          ,2018,2,5,15
+203,205,torn conflicting emotions ambivalence paints decisions shades uncertainty, Ambivalence     ,5/30/2022 11:30, MixedFeelings     , Twitter  , #Ambivalence #UncertainChoices             ,12,25, Canada        ,2022,5,30,11
+204,206,embracing ebb flow life finding acceptance dance existence, Acceptance      ,1/10/2023 16:20, ZenLifestyle      , Instagram , #Acceptance #LifeJourney                   ,15,30, UK           ,2023,1,10,16
+205,207,facing challenges headon determination fuels fire within achieve impossible, Determination   ,9/18/2020 13:45, ResilientSpirit   , Facebook , #Determination #AchieveTheImpossible       ,10,20, India        ,2020,9,18,13
+206,208,serenity found stillness nature tranquil retreat chaos modern world, Serenity        ,7/3/2021 19:00, NatureSoul        , Twitter  , #Serenity #NatureRetreat                   ,12,25, Australia    ,2021,7,3,19
+207,209,curiosity leading rabbit hole knowledge perpetual student lifes classroom, Curiosity       ,10/8/2022 8:15, EternalLearner    , Instagram , #Curiosity #KnowledgeQuest                ,20,40, USA          ,2022,10,8,8
+208,210,floating day air indifference detached mundane happenings around, Indifference    ,3/22/2023 16:30, AloofObserver     , Facebook , #Indifference #FloatingThroughLife        ,10,20, Canada        ,2023,3,22,16
+209,211,entangled web thoughts confusion reigning navigate labyrinth ideas, Confusion       ,5/15/2021 11:45, ThoughtExplorer   , Twitter  , #Confusion #ThoughtLabyrinth              ,15,30, UK            ,2021,5,15,11
+210,212,numb chaos emotions locked away stoic facade concealing inner turmoil, Numbness        ,12/28/2019 14:30, StoicSoul         , Instagram , #Numbness #StoicFacade                    ,8,15, Australia     ,2019,12,28,14
+211,213,melancholy whispers breeze silent conversation echoes forgotten dreams, Melancholy      ,3/1/2020 19:00, DreamerInSilence  , Facebook , #Melancholy #WhispersInTheBreeze         ,12,25, India         ,2020,3,1,19
+212,214,stumbling upon old journal nostalgia flooding waves carrying moments long gone, Nostalgia       ,7/10/2018 15:45, JournalKeeper     , Twitter  , #Nostalgia #JournalMoments               ,10,20, Canada        ,2018,7,10,15
+213,215,tapestry conflicting feelings weaving uncertainty caught threads ambivalence, Ambivalence     ,1/5/2022 10:30, ThreadWeaver      , Instagram , #Ambivalence #ConflictingFeelings        ,12,25, UK            ,2022,1,5,10
+214,216,embracing flaws finding acceptance imperfection journey towards selflove, Acceptance      ,8/20/2021 16:20, SelfLoveAdvocate  , Facebook , #Acceptance #SelfLoveJourney              ,15,30, Australia    ,2021,8,20,16
+215,217,determination burning like wildfire overcoming obstacles turning dreams reality, Determination   ,11/3/2019 13:45, DreamChaser       , Twitter  , #Determination #DreamsIntoReality        ,18,35, USA          ,2019,11,3,13
+216,218,tranquil moments ocean serenity washing peaceful retreat within waves embrace, Serenity        ,4/12/2020 19:30, OceanSoul         , Instagram , #Serenity #OceanRetreat                   ,25,50, Canada        ,2020,4,12,19
+217,219,exploring new horizons spark curiosity adventurer vast landscape knowledge, Curiosity       ,4/15/2022 8:45, HorizonExplorer   , Facebook , #Curiosity #NewHorizons                  ,22,45, India         ,2022,4,15,8
+218,220,drifting day nonchalant demeanor embracing art indifference, Indifference    ,2/10/2023 17:00, NonchalantSpirit  , Twitter  , #Indifference #DriftingThroughLife       ,9,18, UK            ,2023,2,10,17
+219,221,wrestling thoughts perplexed mind lost labyrinth lifes complexities, Confusion       ,8/5/2020 12:15, ComplexThinker    , Instagram , #Confusion #PerplexedMind                ,14,28, Australia    ,2020,8,5,12
+220,222,immersed state emotional numbness shield storm daily struggles, Numbness        ,12/1/2021 15:30, ShieldedHeart     , Facebook , #Numbness #EmotionalShield               ,10,20, USA          ,2021,12,1,15
+221,223,melancholic symphony playing background soundtrack wistful heart, Melancholy      ,3/25/2019 21:00, SymphonySoul      , Twitter  , #Melancholy #WistfulHeart                ,13,26, Canada        ,2019,3,25,21
+222,224,flipping pages old yearbook nostalgia painting smiles tears face, Nostalgia       ,6/18/2017 14:45, YearbookExplorer  , Instagram , #Nostalgia #YearbookMemories            ,12,25, India         ,2017,6,18,14
+223,225,torn opposing emotions ambivalence colors decisions shades uncertainty, Ambivalence     ,7/8/2022 11:30, DecisiveDilemma   , Facebook , #Ambivalence #ShadesOfUncertainty       ,15,30, Australia    ,2022,7,8,11
+224,226,embracing lifes imperfections finding acceptance journey scars, Acceptance      ,5/15/2023 16:20, ImperfectHarmony  , Twitter  , #Acceptance #ImperfectJourney            ,18,36, Canada        ,2023,5,15,16
+225,227,fiery determination burning within fueled vision reaching unparalleled heights, Determination   ,9/10/2021 14:45, VisionarySpirit   , Instagram , #Determination #UnparalleledHeights      ,20,40, UK            ,2021,9,10,14
+226,228,basking serenity quiet forest whispers nature bring peace soul, Serenity        ,2/28/2020 18:30, ForestDreamer     , Facebook , #Serenity #NatureWhispers                ,25,50, USA          ,2020,2,28,18
+227,231,indifferent noise world silent observer midst lifes cacophony, Indifference    ,3/10/2023 16:30, SilentSpectator   , Instagram , #Indifference #SilentObserver            ,9,18, India         ,2023,3,10,16
+228,232,navigating labyrinth thoughts confusion constant companion maze ideas, Confusion       ,5/2/2021 11:45, MazeNavigator     , Facebook , #Confusion #ThoughtLabyrinth              ,14,28, Australia    ,2021,5,2,11
+229,233,impenetrable numbness shields emotional storms fortress stoic resilience, Numbness        ,10/18/2019 14:30, ResilientFortress , Twitter  , #Numbness #StoicResilience               ,11,22, UK            ,2019,10,18,14
+230,234,melancholy painting world hues nostalgia canvas bittersweet memories, Melancholy      ,1/5/2020 20:00, CanvasDreamer     , Instagram , #Melancholy #BittersweetMemories         ,13,26, USA          ,2020,1,5,20
+231,235,journey past flipping pages old diary nostalgia taking lead, Nostalgia       ,8/10/2018 15:45, DiaryExplorer     , Facebook , #Nostalgia #DiaryJourney                 ,12,25, Canada        ,2018,8,10,15
+232,236,ambivalence clouding decisions caught crossroads conflicting emotions, Ambivalence     ,1/15/2022 10:30, CrossroadsTraveler , Twitter  , #Ambivalence #ConflictingEmotions        ,15,30, India         ,2022,1,15,10
+233,237,embracing imperfections finding acceptance mosaic lifes beautiful chaos, Acceptance      ,7/20/2021 16:20, MosaicDreamer     , Instagram , #Acceptance #BeautifulChaos              ,18,36, Australia     ,2021,7,20,16
+234,238,determination driving force propelling forward path extraordinary achievements, Determination   ,12/3/2019 13:45, PathfinderSpirit  , Facebook , #Determination #ExtraordinaryPath        ,20,40, USA          ,2019,12,3,13
+235,239,seeking serenity melody raindrops tranquil escape noise everyday life, Serenity        ,4/12/2020 19:30, RaindropHarmony   , Twitter  , #Serenity #RaindropMelody                ,25,50, Canada        ,2020,4,12,19
+236,240,curiosity driving exploration unknown seeker knowledge uncharted territories, Curiosity       ,5/8/2022 8:45, SeekerOfUnknowns  , Instagram , #Curiosity #SeekerOfKnowledge            ,22,45, UK            ,2022,5,8,8
+237,241,drifting day air nonchalance indifferent trivialities life, Indifference    ,2/22/2023 17:00, NonchalantWanderer, Facebook , #Indifference #DriftingThroughLife       ,9,18, India         ,2023,2,22,17
+238,242,lost labyrinth thoughts confusion casting shadows quest clarity, Confusion       ,6/5/2020 12:15, ShadowedSeeker    , Twitter  , #Confusion #LabyrinthOfThoughts          ,14,28, Australia    ,2020,6,5,12
+239,243,wrapped cloak emotional numbness shield storms lifes turbulence, Numbness        ,11/30/2021 15:30, TurbulentShield   , Instagram , #Numbness #EmotionalStorms               ,10,20, Canada        ,2021,11,30,15
+240,244,melancholy companion painting canvas life brushstrokes wistful yearning, Melancholy      ,2/25/2019 21:00, WistfulPainter    , Facebook , #Melancholy #WistfulYearning             ,13,26, UK            ,2019,2,25,21
+241,245,leafing pages old photo album nostalgia weaving tales laughter tears, Nostalgia       ,5/18/2017 14:45, TaleWeaver        , Twitter  , #Nostalgia #PhotoAlbumStories            ,12,25, USA          ,2017,5,18,14
+242,246,ambivalence air caught crossroads conflicting emotions decisions, Ambivalence     ,8/5/2022 11:30, CrossroadsExplorer, Instagram , #Ambivalence #CrossroadsConfusion        ,15,30, Canada        ,2022,8,5,11
+243,247,embracing beauty imperfections finding acceptance mosaic lifes unpredictable art, Acceptance      ,6/15/2023 16:20, MosaicArtist      , Facebook , #Acceptance #UnpredictableArt            ,18,36, Australia    ,2023,6,15,16
+244,248,determination ablaze forging path challenges sculpting dreams tangible realities, Determination   ,10/10/2021 14:45, DreamSculptor     , Twitter  , #Determination #SculptingDreams          ,20,40, UK            ,2021,10,10,14
+245,249,immerse serenity moonlit night quiet whispers nature bring peace soul, Serenity        ,5/12/2020 19:30, MoonlitSoul       , Instagram , #Serenity #MoonlitPeace                  ,25,50, USA          ,2020,5,12,19
+246,250,fueled curiosity venturing uncharted realms fearless explorer mysteries world, Curiosity       ,12/1/2022 9:15, FearlessExplorer  , Facebook , #Curiosity #FearlessExplorer              ,22,44, India         ,2022,12,1,9
+247,251,wrapped cloak emotional numbness shield storms lifes turbulence, Numbness ,11/30/2021 15:30, TurbulentShield , Instagram , #Numbness #EmotionalStorms ,10,20, Canada ,2021,11,30,15
+248,252,dancing life exuberance carefree spirit embracing joy zest every turn, Zest ,7/12/2018 17:45, JoyfulDancer , Twitter , #Zest #CarefreeSpirit ,15,30, USA ,2018,7,12,17
+249,253,basking golden glow contentment serene river flowing landscape heart, Contentment ,9/5/2020 20:10, SereneBasker , Facebook , #Contentment #GoldenGlow ,18,36, Australia ,2020,9,5,20
+250,254,gazing towards horizon hopeful eyes painting canvas dreams illuminated sun optimism, Hopeful ,4/18/2022 8:00, DreamPainter , Instagram , #Hopeful #CanvasOfDreams ,12,24, India ,2022,4,18,8
+251,255,standing tall proud oak branches achievement reaching towards sky accomplishment, Proud ,12/10/2019 12:20, OakAchiever , Twitter , #Proud #BranchesOfAchievement ,25,50, Canada ,2019,12,10,12
+252,256,heart overflowing gratitude garden appreciation blooms soil kindness connection, Grateful ,2/28/2023 9:45, HeartGardener , Facebook , #Grateful #BlossomingConnection ,20,40, USA ,2023,2,28,9
+253,257,extending hand empathetic threads weaving tapestry understanding embracing joys sorrows others, Empathetic ,4/3/2018 14:15, ThreadWeaver , Instagram , #Empathetic #TapestryOfUnderstanding ,15,30, UK ,2018,4,3,14
+254,258,compassionate clouds heavy care showering empathy parched grounds human suffering, Compassionate ,6/20/2022 10:30, CloudCaretaker , Twitter , #Compassionate #ShowerOfEmpathy ,18,36, Australia ,2022,6,20,10
+255,259,playfully dancing rain laughter whimsical spirit twirling puddles joy lightheartedness, Playful ,7/8/2020 18:00, RainDancer , Facebook , #Playful #DanceInTheRain ,22,44, Canada ,2020,7,8,18
+256,260,soaring wings free spirit unburdened chains conformity painting sky independence, Free-spirited ,8/15/2021 11:10, SkyPainter , Instagram , #FreeSpirit #PaintingTheSky ,20,40, India ,2021,8,15,11
+257,261,bathed glow inspiration creative phoenix rising ashes ordinary thoughts explore new realms, Inspired ,10/25/2019 16:50, PhoenixExplorer , Twitter , #Inspired #CreativePhoenix ,15,30, UK ,2019,10,25,16
+258,262,navigating sea hope sailing towards sunrise possibilities confident ship positive anticipation, Hopeful ,10/5/2023 7:30, SunriseNavigator , Facebook , #Hopeful #SunriseOfPossibilities ,12,24, USA ,2023,10,5,7
+259,263,striding confidence footprints selfassuredness imprinted sands challenges conquered victories claimed, Confident ,2/15/2022 13:15, SandStrider , Instagram , #Confident #FootprintsOfAssuredness ,25,50, Australia ,2022,2,15,13
+260,264,lost symphony night moonlit serenade whispers tales wanderlust moonlit dreams, Serenity ,5/8/2021 22:00, NightSerenader , Twitter , #Serenity #MoonlitSerenade ,13,26, Canada ,2021,5,8,22
+261,265,unveiling layers curiosity labyrinth questions leading treasure troves undiscovered knowledge, Curiosity ,11/29/2020 14:45, KnowledgeSeeker , Instagram , #Curiosity #LabyrinthOfQuestions ,17,34, USA ,2020,11,29,14
+262,266,embrace autumn breeze leaves ambivalence dancing waltz choices uncertainties, Ambivalence ,9/14/2019 10:20, BreezeWaltzer , Facebook , #Ambivalence #AutumnWaltz ,14,28, UK ,2019,9,14,10
+263,267,gratitude guiding star navigating constellation blessings vast universe lifes precious moments, Grateful ,3/12/2022 19:55, StarNavigator , Twitter , #Grateful #GuidingStar ,19,38, Australia ,2022,3,12,19
+264,268,zestful heart sprinting fields enthusiasm chasing sunbeams laughter meadows joy, Zest ,3/30/2023 16:30, MeadowSprinter , Instagram , #Zest #FieldsOfEnthusiasm ,16,32, India ,2023,3,30,16
+265,269,compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections, Compassionate ,7/1/2021 12:10, RainNurturer , Facebook , #Compassionate #TearsOfEmpathy ,21,42, Canada ,2021,7,1,12
+266,270,proudly scaling peaks achievement mountaineer conquering challenges planting flag success, Proud ,1/5/2020 8:45, PeakConqueror , Twitter , #Proud #ScalingPeaks ,23,46, USA ,2020,1,5,8
+267,271,embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow, Hopeful ,7/17/2022 6:15, DawnGardener , Instagram , #Hopeful #SeedsOfOptimism ,14,28, UK ,2022,7,17,6
+268,272,playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere, Playful ,8/22/2018 17:20, CarnivalDreamer , Facebook , #Playful #CarnivalEscapade ,24,48, Australia ,2018,8,22,17
+269,273,floating clouds inspiration artist painting sky strokes creativity creating masterpiece dreams, Inspired ,12/8/2021 14:30, SkyArtist , Twitter , #Inspired #CloudsOfCreativity ,18,36, India ,2021,12,8,14
+270,274,navigating river contentment serene boat cruise tranquil waters inner peace acceptance, Contentment ,4/27/2019 9:50, RiverNavigator , Instagram , #Contentment #TranquilWaters ,20,40, Canada ,2019,4,27,9
+271,275,empathy lantern wandering dark alleys sorrow illuminating path compassion care, Empathetic ,9/3/2023 21:40, LanternWanderer , Facebook , #Empathetic #LanternOfCompassion ,16,32, USA ,2023,9,3,21
+272,276,free spirit soaring wings dreams leaving trails independence azure sky boundless possibilities, Free-spirited ,6/10/2020 10:05, DreamSoarer , Twitter , #FreeSpirit #WingsOfDreams ,22,44, UK ,2020,6,10,10
+273,277,bathed golden hues gratefulness sunset appreciation casting warm glow landscapes heart, Grateful ,4/1/2022 18:30, SunsetAdmirer , Instagram , #Grateful #GoldenHues ,19,38, Australia ,2022,4,1,18
+274,278,confident strides dance life ballroom selfassuredness leads twirling challenges grace, Confident ,1/15/2021 13:00, DanceStrider , Facebook , #Confident #DanceOfLife ,23,46, Canada ,2021,1,15,13
+275,279,hopeful whispers wind carrying promises brighter tomorrow symphony optimism air possibilities, Hopeful ,5/6/2023 7:20, WindWhisperer , Twitter , #Hopeful #BrighterTomorrows ,15,30, India ,2023,5,6,7
+276,280,playfully juggling responsibilities circus performer balancing acts work joy tossing laughter air, Playful ,11/18/2019 15:15, JugglingArtist , Instagram , #Playful #JugglingResponsibilities ,25,50, USA ,2019,11,18,15
+277,281,whispering tales inspiration stars storyteller crafting constellations threads imagination, Inspired ,8/29/2020 20:45, StarStoryteller , Facebook , #Inspired #TalesToTheStars ,14,28, UK ,2020,8,29,20
+278,282,charting course waves hopeful anticipation sailor steering towards shores dreams yet unexplored, Hopeful ,10/30/2022 11:40, WaveNavigator , Twitter , #Hopeful #SailorOfDreams ,17,34, Australia ,2022,10,30,11
+279,283,compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections, Compassionate ,7/1/2021 12:10, RainNurturer , Instagram , #Compassionate #TearsOfEmpathy ,21,42, Canada ,2021,7,1,12
+280,284,proudly scaling peaks achievement mountaineer conquering challenges planting flag success, Proud ,1/5/2020 8:45, PeakConqueror , Twitter , #Proud #ScalingPeaks ,23,46, USA ,2020,1,5,8
+281,285,embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow, Hopeful ,7/17/2022 6:15, DawnGardener , Instagram , #Hopeful #SeedsOfOptimism ,14,28, UK ,2022,7,17,6
+282,286,playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere, Playful ,8/22/2018 17:20, CarnivalDreamer , Facebook , #Playful #CarnivalEscapade ,24,48, Australia ,2018,8,22,17
+283,287,floating clouds inspiration artist painting sky strokes creativity creating masterpiece dreams, Inspired ,12/8/2021 14:30, SkyArtist , Twitter , #Inspired #CloudsOfCreativity ,18,36, India ,2021,12,8,14
+284,288,navigating river contentment serene boat cruise tranquil waters inner peace acceptance, Contentment ,4/27/2019 9:50, RiverNavigator , Instagram , #Contentment #TranquilWaters ,20,40, Canada ,2019,4,27,9
+285,289,empathy lantern wandering dark alleys sorrow illuminating path compassion care, Empathetic ,9/3/2023 21:40, LanternWanderer , Facebook , #Empathetic #LanternOfCompassion ,16,32, USA ,2023,9,3,21
+286,290,free spirit soaring wings dreams leaving trails independence azure sky boundless possibilities, Free-spirited ,6/10/2020 10:05, DreamSoarer , Twitter , #FreeSpirit #WingsOfDreams ,22,44, UK ,2020,6,10,10
+287,291,bathed golden hues gratefulness sunset appreciation casting warm glow landscapes heart, Grateful ,4/1/2022 18:30, SunsetAdmirer , Instagram , #Grateful #GoldenHues ,19,38, Australia ,2022,4,1,18
+288,292,confident strides dance life ballroom selfassuredness leads twirling challenges grace, Confident ,1/15/2021 13:00, DanceStrider , Facebook , #Confident #DanceOfLife ,23,46, Canada ,2021,1,15,13
+289,293,hopeful whispers wind carrying promises brighter tomorrow symphony optimism air possibilities, Hopeful ,5/6/2023 7:20, WindWhisperer , Twitter , #Hopeful #BrighterTomorrows ,15,30, India ,2023,5,6,7
+290,294,playfully juggling responsibilities circus performer balancing acts work joy tossing laughter air, Playful ,11/18/2019 15:15, JugglingArtist , Instagram , #Playful #JugglingResponsibilities ,25,50, USA ,2019,11,18,15
+291,295,whispering tales inspiration stars storyteller crafting constellations threads imagination, Inspired ,8/29/2020 20:45, StarStoryteller , Facebook , #Inspired #TalesToTheStars ,14,28, UK ,2020,8,29,20
+292,296,charting course waves hopeful anticipation sailor steering towards shores dreams yet unexplored, Hopeful ,10/30/2022 11:40, WaveNavigator , Twitter , #Hopeful #SailorOfDreams ,17,34, Australia ,2022,10,30,11
+293,297,compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections, Compassionate ,7/1/2021 12:10, RainNurturer , Instagram , #Compassionate #TearsOfEmpathy ,21,42, Canada ,2021,7,1,12
+294,298,proudly scaling peaks achievement mountaineer conquering challenges planting flag success, Proud ,1/5/2020 8:45, PeakConqueror , Twitter , #Proud #ScalingPeaks ,23,46, USA ,2020,1,5,8
+295,299,embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow, Hopeful ,7/17/2022 6:15, DawnGardener , Instagram , #Hopeful #SeedsOfOptimism ,14,28, India ,2022,7,17,6
+296,300,playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere, Playful ,8/22/2018 17:20, CarnivalDreamer , Facebook , #Playful #CarnivalEscapade ,24,48, Australia ,2018,8,22,17
+297,301,drowning abyss despair heart shattered fragments lost echoing silence hopelessness, Despair ,9/15/2021 16:00, ShatteredHeart , Instagram , #Despair #EchoingSilence ,8,16, Canada ,2021,9,15,16
+298,302,bitterness festering like venomous vine entwining soul web resentment poisoning garden peace, Bitterness ,3/8/2019 14:20, VenomousSoul , Facebook , #Bitterness #ResentmentWeb ,12,24, UK ,2019,3,8,14
+299,303,wandering desert loneliness step heavy sigh mirages connection shimmering never materializing, Loneliness ,7/20/2017 11:45, DesertWanderer , Twitter , #Loneliness #MiragesOfConnection ,15,30, USA ,2017,7,20,11
+300,304,yearning touch thats echoes distant warmth haunting heart cold embrace solitude, Yearning ,11/2/2020 19:30, ColdEmbrace , Instagram , #Yearning #DistantWarmth ,10,20, Australia ,2020,11,2,19
+301,305,eyes wide open night fearful shadows dancing walls mind prisoner imagined horrors, Fearful ,5/12/2022 2:00, NightPrisoner , Facebook , #Fearful #ImaginedHorrors ,18,36, India ,2022,5,12,2
+302,306,apprehensive steps tightrope uncertainty balancing act fall seems inevitable anxiety constant companion, Apprehensive ,4/8/2023 13:15, TightropeWalker , Twitter , #Apprehensive #BalancingAct ,14,28, UK ,2023,4,8,13
+303,307,overwhelmed weight world atlas trembling shoulders responsibility boulder landscape exhaustion, Overwhelmed ,6/25/2021 17:50, AtlasBearer , Instagram , #Overwhelmed #BouldersOfExhaustion ,22,44, Canada ,2021,6,25,17
+304,308,jealousy greeneyed monster lurking shadows casting dark cloud sunshine others success, Jealous ,8/30/2019 10:10, GreenMonster , Facebook , #Jealous #GreenEyedMonster ,16,32, USA ,2019,8,30,10
+305,309,devastated storm betrayal wreckage trust scattered like debris heart torn winds broken promises, Devastated ,8/3/2022 15:30, StormSurvivor , Twitter , #Devastated #WindsOfBrokenPromises ,25,50, Australia ,2022,8,3,15
+306,310,frustrated fingers tapping keyboard symphony annoyance composing unsolvable puzzle unmet expectations, Frustrated ,12/17/2020 9:20, PuzzleComposer , Instagram , #Frustrated #UnsolvablePuzzle ,12,24, India ,2020,12,17,9
+307,311,envious eyes fixated gilded prize heartache fueled painful desire possessions seem forever reach, Envious ,2/28/2021 22:45, GildedHeartache , Facebook , #Envious #GildedPrize ,20,40, USA ,2021,2,28,22
+308,312,dismissive glances fortress built indifference walls impenetrable pleas understanding recognition, Dismissive ,5/10/2018 14:00, IndifferentFort , Twitter , #Dismissive #ImpenetrableWalls ,14,28, UK ,2018,5,10,14
+309,313,shattered dreams lie floor like fragments glass mosaic disappointment crafted hands frustration, Frustrated ,1/7/2022 11:10, DreamMosaic , Instagram , #Frustrated #MosaicOfDisappointment ,15,30, Canada ,2022,1,7,11
+310,314,loneliness silent companion night echo chamber solitude hearts solitary nocturne, Loneliness ,9/19/2019 3:30, NocturnalEcho , Facebook , #Loneliness #SolitaryNocturne ,18,36, Australia ,2019,9,19,3
+311,315,fearful whispers dark mind haunted specter unknown shadows dancing rhythm anxietys tune, Fearful ,7/14/2023 23:00, DarkWhispers , Twitter , #Fearful #SpecterOfTheUnknown ,13,26, UK ,2023,7,14,23
+312,316,bitterness bitter aftertaste lingering tongue word reminder wounds refuse heal passing time, Bitterness ,4/5/2020 16:20, LingeringTaste , Instagram , #Bitterness #BitterAftertaste ,10,20, India ,2020,4,5,16
+313,317,overwhelmed cacophony expectations drowning soul tempest pressure struggling stay afloat, Overwhelmed ,11/29/2021 8:45, TempestSurvivor , Facebook , #Overwhelmed #DrowningSoul ,20,40, USA ,2021,11,29,8
+314,318,jealousy venom seeps veins poisoning heart turning breeding ground discontent, Jealous ,12/12/2019 17:00, VenomousHeart , Twitter , #Jealous #HeartOfDiscontent ,16,32, Australia ,2019,12,12,17
+315,319,devastated revelation betrayal trust shattered like fragile glass leaving shards pain wake, Devastated ,5/20/2022 14:50, FragileTrust , Instagram , #Devastated #ShatteredTrust ,25,50, Canada ,2022,5,20,14
+316,320,frustrated attempts mend broken connection threads understanding slipping fingers like grains sand, Frustrated ,9/3/2020 12:15, BrokenThreads , Facebook , #Frustrated #SlippingThreads ,14,28, UK ,2020,9,3,12
+317,321,envious gazes cast upon podium success bitter pill swallowed taste lingering constant reminder unattained heights, Envious ,2/10/2021 19:30, SuccessPill , Twitter , #Envious #BitterPill ,20,40, USA ,2021,2,10,19
+318,322,dismissive gestures curtain drawn shield vulnerability stage emotions take backseat performance indifference, Dismissive ,8/18/2018 14:40, CurtainShield , Instagram , #Dismissive #IndifferencePerformance ,12,24, Australia ,2018,8,18,14
+319,323,despair like heavy fog enveloping every thought blurring path ahead journey labyrinth utter hopelessness, Despair ,2/28/2022 21:00, FoggyLabyrinth , Facebook , #Despair #LabyrinthOfHopelessness ,8,16, Canada ,2022,2,28,21
+320,324,bitterness bitter chill air freezing moments icicles resentment dangle precariously landscape memory, Bitterness ,10/15/2019 10:30, IcyResentment , Twitter , #Bitterness #IciclesOfResentment ,15,30, UK ,2019,10,15,10
+321,325,loneliness solitary moon starless sky casting cold glow landscape isolation echoes bounce empty spaces, Loneliness ,12/1/2017 18:50, SolitaryMoon , Instagram , #Loneliness #StarlessSky ,18,36, USA ,2017,12,1,18
+322,326,yearning warmth vanished sun heartache painted hues sunset never graced horizon, Yearning ,4/18/2020 16:15, VanishedSunset , Facebook , #Yearning #HuesOfSunset ,10,20, Australia ,2020,4,18,16
+323,327,fearful eyes scanning shadows prisoner night terrorized lurking monsters born minds darkest corners, Fearful ,1/7/2023 3:30, NightPrisoner , Twitter , #Fearful #LurkingMonsters ,18,36, India ,2023,1,7,3
+324,328,apprehensive whispers wind forecast uncertainty minds weather vane spinning wildly storm doubt, Apprehensive ,6/10/2021 10:00, WindWhisperer , Instagram , #Apprehensive #StormOfDoubt ,14,28, Canada ,2021,6,10,10
+325,329,overwhelmed maze expectations minotaur pressure lurking labyrinth waiting devour spirit resilience, Overwhelmed ,2/22/2020 15:20, MazeExplorer , Facebook , #Overwhelmed #MinotaurOfPressure ,22,44, USA ,2020,2,22,15
+326,330,jealousy festering wound pain intensifying glance garden others achievements blooming beyond fence, Jealous ,3/17/2018 14:45, WoundedGarden , Twitter , #Jealous #BloomingAchievements ,16,32, UK ,2018,3,17,14
+327,331,devastated heart ruins echoes shattered dreams reverberating chambers requiem whole, Devastated ,10/28/2022 11:15, RuinedHeart , Instagram , #Devastated #EchoesOfShatteredDreams ,25,50, Australia ,2022,10,28,11
+328,332,frustrated attempts untangle knot confusion threads understanding slipping labyrinth miscommunication, Frustrated ,11/1/2020 12:30, KnotUntangler , Facebook , #Frustrated #LabyrinthOfMiscommunication ,14,28, India ,2020,11,1,12
+329,333,envious eyes locked treasure chest opportunities heartache fueled desire keys seem forever elusive, Envious ,1/15/2021 22:10, ElusiveKeys , Twitter , #Envious #DesireForKeys ,20,40, USA ,2021,1,15,22
+330,334,dismissive gestures curtain drawn shield vulnerability stage emotions take backseat performance indifference, Dismissive ,8/18/2018 14:00, IndifferentFort , Instagram , #Dismissive #IndifferencePerformance ,12,24, Australia ,2018,8,18,14
+331,335,shattered dreams lie floor like fragments glass mosaic disappointment crafted hands frustration, Frustrated ,1/7/2022 11:10, DreamMosaic , Twitter , #Frustrated #MosaicOfDisappointment ,15,30, Canada ,2022,1,7,11
+332,336,loneliness silent companion night echo chamber solitude hearts solitary nocturne, Loneliness ,9/19/2019 3:30, NocturnalEcho , Facebook , #Loneliness #SolitaryNocturne ,18,36, Australia ,2019,9,19,3
+333,337,awestruck breathtaking sunrise mountains, Awe           ,4/3/2022 6:15, NatureAdmirer  , Instagram , #Awe #BreathtakingSunrise                   ,28,55, USA               ,2022,4,3,6
+334,338,navigating challenges determination, Determination ,10/12/2023 10:30, GoalPursuer    , Twitter  , #Determination #Challenges                  ,15,30, Canada            ,2023,10,12,10
+335,339,nostalgia hits flipping old photo album, Nostalgia      ,6/28/2019 19:00, MemoryLane     , Facebook , #Nostalgia #OldMemories                     ,22,45, UK                ,2019,6,28,19
+336,340,thrilled witness grandeur cultural festival, Thrill        ,9/15/2020 14:45, CultureEnthusiast , Instagram , #Thrill #CulturalCelebration              ,40,80, India              ,2020,9,15,14
+337,341,calmness found rhythm raindrops windowpane, Calmness      ,11/8/2017 21:20, RainWatcher    , Twitter  , #Calmness #RainyDays                        ,18,35, Australia          ,2017,11,8,21
+338,342,overwhelmed support received personal challenge, Overwhelmed   ,5/20/2021 17:30, PersonalJourney , Facebook , #Overwhelmed #SupportiveCommunity          ,25,50, USA               ,2021,5,20,17
+339,343,excitement builds countdown longawaited vacation begins, Excitement ,1/10/2023 12:00, VacationDreamer , Instagram , #Excitement #VacationCountdown        ,30,60, France            ,2023,1,10,12
+340,344,reflecting lifes journey grateful lessons learned, Gratitude   ,12/5/2018 8:45, LifeLearner   , Twitter  , #Gratitude #LifeLessons                    ,35,70, Brazil            ,2018,12,5,8
+341,345,bittersweet emotions arise bidding farewell dear friend, Bittersweet ,3/15/2020 18:30, FarewellSender , Instagram , #Bittersweet #Farewell                     ,20,40, Japan             ,2020,3,15,18
+342,346,curiosity sparked exploring mysterious ancient ruin, Curiosity     ,8/22/2016 15:10, HistoryExplorer , Facebook , #Curiosity #AncientDiscovery          ,18,35, Greece            ,2016,8,22,15
+343,347,admiration intricate details handcrafted masterpiece, Admiration    ,8/20/2019 16:00, CraftEnthusiast , Instagram , #Admiration #HandcraftedArt               ,25,50, USA               ,2019,8,20,16
+344,348,overjoyed warmth cozy fireplace winter evening, Overjoyed     ,12/8/2021 19:30, WinterLover     , Twitter  , #Overjoyed #WinterWarmth                  ,18,35, Canada            ,2021,12,8,19
+345,349,inspiration strikes observing colors vibrant sunset, Inspiration   ,6/10/2020 20:45, SunsetWatcher   , Instagram , #Inspiration #ColorfulSunset             ,30,60, UK                ,2020,6,10,20
+346,350,motivated achieve fitness goals invigorating workout, Motivation    ,2/28/2022 7:15, FitnessJunkie   , Facebook , #Motivation #FitnessGoals                 ,40,80, Australia          ,2022,2,28,7
+347,351,gratitude simple joys found cup morning coffee, Gratitude     ,4/15/2017 8:00, CoffeeLover     , Twitter  , #Gratitude #MorningCoffee                 ,22,45, India             ,2017,4,15,8
+348,352,feeling empowered conquering challenging hiking trail, Empowerment   ,9/5/2018 14:20, HikingExplorer  , Instagram , #Empowerment #HikingAdventure             ,35,70, USA               ,2018,9,5,14
+349,353,amused antics playful kittens playtime, Amusement     ,10/22/2022 12:45, KittyObserver   , Facebook , #Amusement #PlayfulKittens               ,15,30, Canada            ,2022,10,22,12
+350,354,contemplating lifes mysteries starry night sky, Contemplation ,7/2/2016 23:30, Stargazer       , Twitter  , #Contemplation #StarryNight               ,28,55, UK                ,2016,7,2,23
+351,355,joyful reunion longlost friends years separation, JoyfulReunion ,11/18/2020 17:10, FriendshipRenewal , Instagram , #JoyfulReunion #Friendship               ,20,40, India             ,2020,11,18,17
+352,356,excitement builds preparing surprise celebration, Excitement    ,3/5/2023 15:00, CelebrationPlanner , Facebook , #Excitement #SurpriseCelebration         ,30,60, Australia          ,2023,3,5,15
+353,357,satisfaction derived successfully completing diy project, Satisfaction  ,12/1/2015 11:30, DIYEnthusiast   , Twitter  , #Satisfaction #DIYProject                 ,25,50, USA               ,2015,12,1,11
+354,358,feeling blessed supportive community times need, Blessed       ,9/10/2021 9:45, CommunityHelper , Instagram , #Blessed #SupportiveCommunity            ,18,35, UK                ,2021,9,10,9
+355,359,captivated serenity tranquil garden full bloom, Serenity      ,5/12/2018 14:20, GardenEnthusiast , Facebook , #Serenity #TranquilGarden                ,22,45, Canada            ,2018,5,12,14
+356,360,anticipation upcoming adventure exotic destination, Anticipation  ,7/25/2022 10:00, Wanderlust      , Twitter  , #Anticipation #AdventureAwaits           ,40,80, India             ,2022,7,25,10
+357,361,reflecting personal growth achieved life experiences, Reflection    ,3/8/2019 18:30, GrowthSeeker    , Instagram , #Reflection #PersonalGrowth              ,35,70, USA               ,2019,3,8,18
+358,362,nostalgic memories flood revisiting childhood favorites, Nostalgia     ,1/28/2017 21:15, ChildhoodMemories , Facebook , #Nostalgia #ChildhoodFavorites           ,20,40, Australia          ,2017,1,28,21
+359,363,appreciation vibrant culture experienced travel, Appreciation  ,11/14/2016 13:45, CultureExplorer , Twitter  , #Appreciation #CulturalExperience        ,28,55, UK                ,2016,11,14,13
+360,364,confidence soars overcoming public speaking anxiety, Confidence    ,4/2/2020 17:30, PublicSpeaker   , Instagram , #Confidence #OvercomingAnxiety          ,15,30, USA               ,2020,4,2,17
+361,365,contentment midst family gathering filled laughter, Contentment   ,1/15/2023 19:00, FamilyCelebration , Facebook , #Contentment #FamilyLaughter             ,25,50, Canada            ,2023,1,15,19
+362,366,enthusiasm learning new skills expanding knowledge, Enthusiasm    ,8/7/2018 12:15, LifelongLearner , Twitter  , #Enthusiasm #SkillBuilding               ,30,60, India             ,2018,8,7,12
+363,367,surprise delight discovering hidden gem city, Surprise      ,10/18/2019 16:45, CityExplorer    , Instagram , #Surprise #HiddenGem                      ,18,35, UK                ,2019,10,18,16
+364,368,sense accomplishment completing challenging workout, Accomplishment ,6/30/2022 7:00, FitnessAchiever , Facebook , #Accomplishment #FitnessSuccess         ,22,45, Australia          ,2022,6,30,7
+365,369,wonderment beauty double rainbow rain, Wonderment    ,6/12/2017 18:20, RainbowChaser   , Twitter  , #Wonderment #DoubleRainbow               ,35,70, USA               ,2017,6,12,18
+366,370,optimism bright future amidst challenging times, Optimism      ,7/5/2021 9:30, FutureOptimist  , Instagram , #Optimism #BrightFuture                  ,20,40, Canada            ,2021,7,5,9
+367,371,pride achieving personal milestone career progression, Pride         ,4/15/2016 14:50, CareerAchiever  , Facebook , #Pride #CareerMilestone                  ,28,55, UK                ,2016,4,15,14
+368,372,happiness blooms like flowers garden sunny day, Happiness     ,2/10/2020 11:15, SunnyDayEnthusiast , Twitter  , #Happiness #SunnyDay                      ,15,30, India             ,2020,2,10,11
+369,373,elation discovering rare book quaint bookstore, Elation       ,9/22/2018 16:30, Bookworm        , Instagram , #Elation #RareBookDiscovery              ,40,80, USA               ,2018,9,22,16
+370,374,curiosity piqued mysteries ancient archaeological site, Curiosity   ,11/8/2015 10:00, ArchaeologyEnthusiast , Facebook , #Curiosity #AncientMysteries            ,18,35, Australia          ,2015,11,8,10
+371,375,mesmerized cosmic dance fireflies moonlit night, Enchantment   ,8/10/2022 22:00, NightSkyObserver , Instagram , #Enchantment #CosmicFireflies             ,25,50, Brazil           ,2022,8,10,22
+372,376,intrigued symphony colors abstract art exhibition, Intrigue      ,4/5/2019 17:30, ArtConnoisseur  , Twitter  , #Intrigue #AbstractArt                   ,18,35, France           ,2019,4,5,17
+373,377,giggles joy echo air childrens playdate, PlayfulJoy    ,12/15/2020 15:45, PlayfulParent   , Facebook , #PlayfulJoy #ChildrensPlaydate           ,22,45, Japan            ,2020,12,15,15
+374,378,enveloped serenity practicing mindfulness lake, Mindfulness   ,10/20/2017 8:15, ZenSeeker       , Instagram , #Mindfulness #LakeTranquility            ,35,70, Canada           ,2017,10,20,8
+375,379,chasing dreams like kite soaring high vast open sky, DreamChaser   ,2/28/2021 13:00, SkyDreamer      , Twitter  , #DreamChaser #SkyHighDreams              ,30,60, Australia         ,2021,2,28,13
+376,380,spellbound elegance ballroom dance crystal chandeliers, Elegance ,6/12/2018 20:30, DanceEnthusiast , Facebook , #Elegance #BallroomDance                ,28,55, UK               ,2018,6,12,20
+377,381,whimsical delight world fairy tales magical creatures, Whimsy        ,3/8/2016 14:20, FairyTaleExplorer , Instagram , #Whimsy #MagicalWorld                    ,20,40, USA             ,2016,3,8,14
+378,382,pensive contemplation amid ancient ruins forgotten civilization, Pensive ,4/18/2023 17:10, RuinsExplorer   , Twitter  , #Pensive #AncientCivilization           ,18,35, Greece           ,2023,4,18,17
+379,383,embracing thrill speed rollercoasters exhilarating twists, Thrill      ,7/25/2020 12:45, RollercoasterFan , Facebook , #Thrill #RollercoasterAdventure        ,22,45, Germany         ,2020,7,25,12
+380,384,harmony resonates musicians play melody unity togetherness, Harmony    ,11/30/2019 19:30, MusicHarmonist  , Instagram , #Harmony #MusicalUnity                   ,35,70, Sweden          ,2019,11,30,19
+381,385,burst creativity quiet solitude artists studio, Creativity   ,9/1/2015 16:00, StudioArtist    , Twitter  , #Creativity #ArtistsHaven               ,15,30, Italy           ,2015,9,1,16
+382,386,radiant joy akin blooming flowers sunkissed spring morning, Radiance    ,5/5/2022 10:15, SpringEnthusiast , Facebook , #Radiance #SpringBlooms                 ,25,50, Netherlands     ,2022,5,5,10
+383,387,sense wonder vastness cosmos stargazing night, Wonder     ,7/8/2018 23:00, CosmosExplorer  , Instagram , #Wonder #StargazingAdventure            ,40,80, South Africa    ,2018,7,8,23
+384,388,rejuvenated salty breeze sound waves seaside, Rejuvenation ,9/20/2021 14:30, SeaBreezeLover , Twitter  , #Rejuvenation #SeasideEscape            ,18,35, Spain           ,2021,9,20,14
+385,389,whispers inspiration rustling leaves serene forest, Inspiration ,11/15/2016 11:45, ForestDreamer   , Facebook , #Inspiration #ForestWhispers            ,28,55, Portugal        ,2016,11,15,11
+386,390,savoring warmth cup cocoa chilly winter evening, Coziness     ,1/12/2020 18:00, WinterWarmth    , Instagram , #Coziness #WarmWinterEvening           ,30,60, Switzerland     ,2020,1,12,18
+387,391,heartfelt gratitude laughter shared family reunion, Gratitude  ,12/28/2017 19:15, FamilyGatherer , Facebook , #Gratitude #FamilyLaughter              ,22,45, Austria         ,2017,12,28,19
+388,392,embarking culinary adventure savoring exotic flavors around world, Adventure ,3/2/2019 20:20, CulinaryExplorer , Twitter  , #Adventure #CulinaryJourney             ,35,70, Belgium         ,2019,3,2,20
+389,393,euphoria floods final puzzle piece clicks place, Euphoria   ,6/8/2022 15:30, PuzzleSolver    , Instagram , #Euphoria #PuzzleCompletion            ,20,40, Denmark         ,2022,6,8,15
+390,394,aweinspired grandeur ancient cathedrals intricate architecture, Awe    ,8/18/2018 14:45, CathedralVisitor , Facebook , #Awe #ArchitecturalGrandeur            ,18,35, Czech Republic  ,2018,8,18,14
+391,395,captivated ethereal beauty field filled fireflies, Enchantment   ,8/10/2022 22:00, NightSkyObserver , Instagram , #Enchantment #FireflyField              ,25,50, Brazil           ,2022,8,10,22
+392,396,immersed enchanting melodies street musicians violin, Melodic       ,4/5/2019 17:30, MusicLover      , Twitter  , #Melodic #StreetMusic                   ,18,35, France           ,2019,4,5,17
+393,397,joyful laughter resonates lively summer carnival, FestiveJoy    ,12/15/2020 15:45, CarnivalGoer    , Facebook , #FestiveJoy #SummerCarnival             ,22,45, Japan            ,2020,12,15,15
+394,398,exploring universe within mindful meditation session, InnerJourney  ,10/20/2017 8:15, MindfulExplorer , Instagram , #InnerJourney #MeditationBliss          ,35,70, Canada           ,2017,10,20,8
+395,399,soaring like free spirit winds coastal cliff, Freedom       ,2/28/2021 13:00, CoastalExplorer , Twitter  , #Freedom #CoastalAdventure              ,30,60, Australia         ,2021,2,28,13
+396,400,dazzled elegance masquerade balls dazzling costumes, Dazzle        ,6/12/2018 20:30, MasqueradeAttendee , Facebook , #Dazzle #MasqueradeElegance            ,28,55, UK               ,2018,6,12,20
+397,401,whimsical delight world whimsical fairy tales, Whimsy        ,3/8/2016 14:20, FairyTaleAdventurer , Instagram , #Whimsy #FairyTaleMagic                 ,20,40, USA             ,2016,3,8,14
+398,402,reflective contemplation amid ruins forgotten era, Reflection    ,4/18/2023 17:10, RuinsExplorer   , Twitter  , #Reflection #ForgottenEra               ,18,35, Greece           ,2023,4,18,17
+399,403,riding adrenaline rush rollercoasters wild twists, Adrenaline     ,7/25/2020 12:45, ThrillSeeker    , Facebook , #Adrenaline #RollercoasterThrills      ,22,45, Germany         ,2020,7,25,12
+400,404,harmony resonates musicians play symphony unity, Harmony       ,11/30/2019 19:30, MusicHarmonist  , Instagram , #Harmony #MusicalUnity                   ,35,70, Sweden          ,2019,11,30,19
+401,405,burst artistic creativity quietude artists studio, ArtisticBurst ,9/1/2015 16:00, StudioArtist    , Twitter  , #ArtisticBurst #StudioCreativity       ,15,30, Italy           ,2015,9,1,16
+402,406,radiant joy akin blossoming flowers sunlit spring morning, Radiance      ,5/5/2022 10:15, SpringEnthusiast , Facebook , #Radiance #SpringBlooms                 ,25,50, Netherlands     ,2022,5,5,10
+403,407,aweinspired vastness cosmos stargazing night, Wonder       ,7/8/2018 23:00, CosmosExplorer  , Instagram , #Wonder #StargazingAdventure            ,40,80, South Africa    ,2018,7,8,23
+404,408,rejuvenated salty breeze sound waves seaside, Rejuvenation ,9/20/2021 14:30, SeaBreezeLover , Twitter  , #Rejuvenation #SeasideEscape            ,18,35, Spain           ,2021,9,20,14
+405,409,whispers inspiration rustling leaves serene forest, Inspiration  ,11/15/2016 11:45, ForestDreamer   , Facebook , #Inspiration #ForestWhispers            ,28,55, Portugal        ,2016,11,15,11
+406,410,savoring warmth cup cocoa chilly winter evening, Coziness     ,1/12/2020 18:00, WinterWarmth    , Instagram , #Coziness #WarmWinterEvening           ,30,60, Switzerland     ,2020,1,12,18
+407,411,heartfelt gratitude laughter shared family reunion, Gratitude  ,12/28/2017 19:15, FamilyGatherer , Facebook , #Gratitude #FamilyLaughter              ,22,45, Austria         ,2017,12,28,19
+408,412,embarking culinary odyssey savoring flavors around world, CulinaryOdyssey ,3/2/2019 20:20, CulinaryExplorer , Twitter  , #CulinaryOdyssey #FlavorsAroundTheWorld ,35,70, Belgium         ,2019,3,2,20
+409,413,euphoria floods final puzzle piece fits perfectly, Euphoria     ,6/8/2022 15:30, PuzzleSolver    , Instagram , #Euphoria #PerfectPuzzle               ,20,40, Denmark         ,2022,6,8,15
+410,414,awestruck grandeur ancient cathedrals intricate architecture, Awe    ,8/18/2018 14:45, CathedralVisitor , Facebook , #Awe #ArchitecturalGrandeur            ,18,35, Czech Republic  ,2018,8,18,14
+411,415,curiosity awakened mysteries ancient archaeological site, Curiosity  ,11/8/2015 10:00, ArchaeologyEnthusiast , Instagram , #Curiosity #AncientMysteries          ,18,35, Australia ,2015,11,8,10
+412,416,giddy excitement first snowflakes dance sky, Excitement   ,12/2/2020 17:30, SnowfallEnthusiast , Twitter  , #Excitement #SnowfallMagic             ,22,45, Canada         ,2020,12,2,17
+413,417,contentment envelops aroma freshly baked bread fills air, Contentment ,6/10/2017 12:15, BreadLover     , Instagram , #Contentment #FreshBreadAroma          ,28,55, France          ,2017,6,10,12
+414,418,inspired resilience lone tree standing tall storm, Resilience   ,4/15/2021 14:20, NatureResilient , Facebook , #Resilience #StandingTall              ,35,70, USA             ,2021,4,15,14
+415,419,lost pages captivating novel transported another world, Immersion ,9/28/2019 19:45, Bookworm       , Twitter  , #Immersion #CaptivatingNovel           ,20,40, UK              ,2019,9,28,19
+416,420,drenched nostalgia flipping old family photo album, Nostalgia ,12/5/2016 21:00, FamilyHistorian , Instagram , #Nostalgia #FamilyPhotoAlbum           ,25,50, India          ,2016,12,5,21
+417,421,spark inspiration ignites like shooting star night sky, Spark        ,2/10/2018 23:30, NightSkyWatcher , Facebook , #Spark #InspirationIgnited             ,30,60, Australia      ,2018,2,10,23
+418,422,imbued gratitude simple pleasure warm cup tea, Gratitude    ,2/15/2023 8:30, TeaEnthusiast  , Twitter  , #Gratitude #WarmTea                    ,18,35, Japan           ,2023,2,15,8
+419,423,marveling kaleidoscope colors vibrant street market, Marvel       ,8/22/2015 15:00, MarketExplorer , Instagram , #Marvel #ColorfulStreetMarket          ,22,45, Brazil          ,2015,8,22,15
+420,424,awash serenity sun sets tranquil lakeside retreat, Serenity   ,11/20/2020 18:45, LakesideRetreater , Facebook , #Serenity #TranquilSunset              ,28,55, Germany       ,2020,11,20,18
+421,425,drowning sorrow memories lost love resurface, Heartbreak    ,8/5/2019 21:00, LostInLove      , Instagram , #Heartbreak #LostLove                    ,15,30, USA             ,2019,8,5,21
+422,426,numbness sets weight loneliness grows heavier, Loneliness    ,2/12/2021 16:45, SolitudeSeeker , Twitter  , #Loneliness #HeavyHeart                  ,18,35, Canada          ,2021,2,12,16
+423,427,tears fall like raindrops mourning end cherished friendship, Grief      ,11/28/2020 14:20, FriendshipsEnd  , Facebook , #Grief #LostFriendship                  ,22,45, UK              ,2020,11,28,14
+424,428,despair clouds mind feeling adrift endless sea darkness, Despair   ,5/15/2016 22:30, LostInDarkness  , Instagram , #Despair #EndlessDarkness               ,28,55, Australia        ,2016,5,15,22
+425,429,shattered betrayal trust crumbles like fragile glass, Betrayal      ,9/10/2018 13:15, BrokenTrust     , Twitter  , #Betrayal #ShatteredTrust               ,22,45, Germany         ,2018,9,10,13
+426,430,aching heart symphony pain plays silence solitude, Suffering ,3/20/2022 19:30, SilentSufferer  , Facebook , #Suffering #HeartacheSymphony          ,25,50, Brazil          ,2022,3,20,19
+427,431,emotional storm whirlwind sadness engulfs every thought, EmotionalStorm ,7/18/2017 17:45, StormyFeelings  , Instagram , #EmotionalStorm #SadnessWhirlwind      ,30,60, India          ,2017,7,18,17
+428,432,haunted regrets ghost past lingers relentlessly, Regret        ,12/15/2018 10:00, LingeringGhost  , Twitter  , #Regret #HauntedPast                    ,18,35, France         ,2018,12,15,10
+429,433,torn apart grief echoes loss reverberate soul, Grief      ,6/28/2015 21:15, EchoesOfLoss    , Facebook , #Grief #TornApart                       ,28,55, Italy         ,2015,6,28,21
+430,434,isolation deepens emotional winter warmth distant memory, Isolation ,4/2/2020 14:20, WinterOfEmotions , Instagram , #Isolation #EmotionalWinter            ,35,70, Japan       ,2020,4,2,14
+431,435,soulcrushing disappointment hopes shattered like fragile glass, Disappointment ,10/8/2019 18:30, ShatteredHopes  , Twitter  , #Disappointment #CrushedHopes          ,20,40, Spain        ,2019,10,8,18
+432,436,painful echoes love cherished lost abyss time, LostLove ,11/22/2016 9:45, AbyssOfTime     , Facebook , #LostLove #PainfulEchoes               ,22,45, Netherlands  ,2016,11,22,9
+433,437,heartache deepens solitary journey abyss despair, Despair   ,8/18/2022 22:00, SolitaryDescent , Instagram , #Despair #AbyssOfHeartache             ,40,80, South Africa ,2022,8,18,22
+434,438,melancholy lingers bittersweet serenade quietude solitude, Melancholy ,3/12/2017 23:30, SerenadeOfSolitude , Twitter , #Melancholy #QuietSerenade             ,18,35, UK         ,2017,3,12,23
+435,439,bitterness like poison seeping every crevice wounded heart, Bitterness ,12/15/2015 16:15, PoisonedHeart   , Facebook , #Bitterness #WoundedHeart              ,25,50, Australia   ,2015,12,15,16
+436,440,emotional exhaustion weight world crushing weary shoulders, Exhaustion ,9/5/2021 13:30, WearySoulCrushed , Instagram , #Exhaustion #CrushedSpirit             ,35,70, Canada     ,2021,9,5,13
+437,441,sorrowful echoes symphony pain played strings loss, Sorrow      ,5/22/2018 20:45, StringsOfSorrow , Twitter  , #Sorrow #SymphonyOfLoss                ,18,35, Germany     ,2018,5,22,20
+438,442,darkness descends engulfing soul shadows despair, Darkness     ,7/10/2016 18:20, SoulInShadow    , Facebook , #Darkness #SoulEngulfed                 ,28,55, USA         ,2016,7,10,18
+439,443,desperation whispers silent plea glimmer hope abyss, Desperation ,4/30/2019 14:00, WhisperedDespair , Instagram , #Desperation #GlimmerOfHope            ,22,45, France    ,2019,4,30,14
+440,444,heart ruins remnants shattered dreams scattered wind, Ruins      ,1/8/2022 11:30, DreamsInWind    , Twitter  , #Ruins #ShatteredDreams                ,20,40, Brazil     ,2022,1,8,11
+441,445,shattered echoes shattered dream fragments hope scattered, Desolation ,9/10/2017 19:15, DreamEchoes , Twitter , #Desolation #ScatteredHope ,20,40, Australia ,2017,9,10,19
+442,446,avoiding thorns regret walking barefoot path remorse, Regret ,4/18/2022 11:30, RemorseWalker , Instagram , #Regret #PathOfRemorse ,25,50, Canada ,2022,4,18,11
+443,447,labyrinth grief walls echo footsteps lost joy, Grief ,12/5/2018 21:45, JoyLabyrinth , Facebook , #Grief #LostJoyFootsteps ,18,35, USA ,2018,12,5,21
+444,448,soul adrift sea solitude waves loneliness crashing relentlessly, Loneliness ,6/28/2016 14:20, SolitudeSeas , Twitter , #Loneliness #CrashingWaves ,22,45, UK ,2016,6,28,14
+445,449,bitterness betrayal taste lingers staining palate trust, Bitterness ,10/22/2019 17:00, PalateStainer , Instagram , #Bitterness #StainedTrust ,15,30, Germany ,2019,10,22,17
+446,450,ruins hope echoes shattered dreams whisper tales loss, Desolation ,3/15/2021 22:45, HopeRuins , Facebook , #Desolation #WhisperedLoss ,28,55, Brazil ,2021,3,15,22
+447,451,sinking like stone ocean heartbreak ripple sigh despair, Heartbreak ,8/10/2017 19:30, OceanSinker , Twitter , #Heartbreak #RippleOfDespair ,22,45, France ,2017,8,10,19
+448,452,tears ink staining pages journal testament silent grief, Grief ,1/28/2023 14:30, InkJournalist , Instagram , #Grief #SilentTears ,30,60, India ,2023,1,28,14
+449,453,wasteland lost trust echoes broken promises reverberate, Betrayal ,12/12/2016 10:00, TrustWasteland , Facebook , #Betrayal #ReverberatingPromises ,25,50, Italy ,2016,12,12,10
+450,454,avoiding shards shattered dreams walking tightrope resilience, Resilience ,7/18/2020 15:15, DreamTightrope , Twitter , #Resilience #TightropeWalk ,35,70, Japan ,2020,7,18,15
+451,455,suffocating silence solitude echoes laughter thrived, Isolation ,5/20/2022 20:30, EchoedLaughter , Instagram , #Isolation #SilentSolitude ,30,60, South Africa ,2022,5,20,20
+452,456,haunted specter lost possibilities ghost refuses fade away, Regret ,11/8/2019 14:45, PossibilityGhost , Twitter , #Regret #FadingPossibilities ,18,35, Spain ,2019,11,8,14
+453,457,labyrinth despair echoes broken heart reverberate endlessly, Despair ,3/28/2017 22:00, EndlessLabyrinth , Facebook , #Despair #EndlessReverberation ,28,55, Australia ,2017,3,28,22
+454,458,sinking like autumn leaves river sorrow carried away current, Sorrow ,9/15/2020 18:15, RiverOfSorrow , Instagram , #Sorrow #AutumnLeaves ,22,45, Canada ,2020,9,15,18
+455,459,garden broken dreams petals fall silent testimony shattered hopes, Desolation ,6/10/2018 13:30, DreamGardener , Twitter , #Desolation #ShatteredHopes ,20,40, UK ,2018,6,10,13
+456,460,tears currency grief spent marketplace lost love longing, Grief ,12/22/2016 21:45, CurrencyOfTears , Facebook , #Grief #LostLoveLonging ,25,50, USA ,2016,12,22,21
+457,461,wandering maze betrayal walls closing every wrong turn, Betrayal ,1/5/2021 16:20, MazeWanderer , Instagram , #Betrayal #ClosingWalls ,15,30, Germany ,2021,1,5,16
+458,462,soul weathered storm heartbreak seeking refuge calm, Heartbreak ,4/18/2019 11:00, StormSeeker , Twitter , #Heartbreak #CalmAfterStorm ,22,45, Brazil ,2019,4,18,11
+459,463,tapestry despair threads hope unravel leaving portrait sorrow, Despair ,8/28/2017 19:30, TapestrySorrow , Facebook , #Despair #UnraveledHope ,18,35, India ,2017,8,28,19
+460,464,like withered rose garden love petals fall silent surrender time, Loss ,2/10/2023 14:30, WitheredRose , Instagram , #Loss #SilentSurrender ,28,55, France ,2023,2,10,14
+461,465,void heartache echoes love song play note pang longing, Heartache ,7/10/2022 22:15, LoveSongEcho , Instagram , #Heartache #LoveSongLonging ,30,60, Japan ,2022,7,10,22
+462,466,nostalgia bittersweet dance moonlit ballroom cherished memories, Nostalgia ,5/15/2019 21:30, MoonlitMemories , Twitter , #Nostalgia #CherishedMemories ,18,35, Italy ,2019,5,15,21
+463,467,symphony grief tear note composing melancholic melody, Grief ,11/28/2018 14:00, SymphonyOfTears , Facebook , #Grief #MelancholicMelody ,22,45, Germany ,2018,11,28,14
+464,468,betrayal venomous serpent slithering garden trust poisoning roots, Betrayal ,3/2/2021 17:45, VenomousGarden , Instagram , #Betrayal #PoisonedTrust ,25,50, Canada ,2021,3,2,17
+465,469,sinking quicksand despair harder fight deeper descend, Despair ,10/18/2016 19:30, QuicksandFighter , Twitter , #Despair #DeepDescent ,20,40, USA ,2016,10,18,19
+466,470,wandering cemetery lost dreams tombstones marking untold sorrows, Desolation ,8/15/2020 12:30, DreamCemetery , Facebook , #Desolation #UntoldSorrows ,28,55, France ,2020,8,15,12
+467,471,swept away river regret currents past refusing release, Regret ,4/28/2017 16:20, RegretRiver , Instagram , #Regret #PastCurrents ,18,35, UK ,2017,4,28,16
+468,472,whispers lost love linger attic heart forgotten erased, Loss ,9/10/2019 21:00, HeartAttic , Twitter , #Loss #ForgottenLove ,22,45, Australia ,2019,9,10,21
+469,473,gallery broken promises shattered vow framed painful exhibition, Betrayal ,1/28/2022 13:45, PromiseGallery , Facebook , #Betrayal #ShatteredVows ,15,30, Brazil ,2022,1,28,13
+470,474,echoes solitude silent conversation soul shadows, Solitude ,6/15/2016 22:30, EchoedConversation , Instagram , #Solitude #ShadowConversation ,30,60, Spain ,2016,6,15,22
+471,475,dancing sunshine step celebration joy found simple moments, Joy ,8/20/2021 15:45, SunshineDancer , Instagram , #Joy #SimpleMoments ,40,80, USA ,2021,8,20,15
+472,476,laughter echoes air chorus happiness lifts spirit higher, Happiness ,4/12/2018 18:30, EchoedLaughter , Twitter , #Happiness #SpiritLifter ,35,70, Canada ,2018,4,12,18
+473,477,garden contentment bloom whispers tales inner peace joy, Contentment ,2/15/2022 12:20, GardenOfJoy , Facebook , #Contentment #InnerPeace ,25,50, UK ,2022,2,15,12
+474,478,chasing dreams vibrant sky journey fueled hope enthusiasm, Enthusiasm ,10/28/2019 14:15, DreamChaser , Instagram , #Enthusiasm #HopefulJourney ,30,60, Australia ,2019,10,28,14
+475,479,serenading stars heart full gratitude melody thankfulness, Gratitude ,12/22/2017 21:00, StarSerenader , Twitter , #Gratitude #ThankfulMelody ,22,45, India ,2017,12,22,21
+476,480,basking glow accomplishment milestone stepping stone happiness, Accomplishment ,6/10/2020 17:30, GlowAchiever , Facebook , #Accomplishment #HappinessMilestone ,28,55, Germany ,2020,6,10,17
+477,481,dance positivity every step rhythm uplifting soul harmony, Positivity ,9/18/2016 19:45, DanceHarmony , Instagram , #Positivity #SoulUpliftment ,18,35, France ,2016,9,18,19
+478,482,overflowing joy cup laughter shared friends moment cherished, Joy ,3/10/2023 14:30, LaughterCup , Twitter , #Joy #CherishedMoment ,20,40, Japan ,2023,3,10,14
+479,483,draped warmth kindness quilt compassion stitched love, Kindness ,5/5/2019 12:15, QuiltedCompassion , Facebook , #Kindness #LoveStitches ,25,50, Brazil ,2019,5,5,12
+480,484,garden friendships bloom testament beauty camaraderie, Friendship ,8/28/2018 16:00, FriendshipGarden , Instagram , #Friendship #CamaraderieBlooms ,30,60, South Africa ,2018,8,28,16
+481,485,embrace love heartbeat melody dancing rhythm affection, Love ,11/15/2022 20:45, MelodyOfLove , Twitter , #Love #RhythmOfAffection ,35,70, USA ,2022,11,15,20
+482,486,surrounded colors joy canvas painted laughter endless smiles, Joy ,7/2/2019 17:00, ColorfulLaughter , Instagram , #Joy #EndlessSmiles ,40,80, Canada ,2019,7,2,17
+483,487,symphony excitement note burst energy igniting soul fervor, Excitement ,4/18/2021 14:20, SymphonyFervor , Facebook , #Excitement #IgnitedSoul ,30,60, UK ,2021,4,18,14
+484,488,surprise gift wrapped anticipation unfolds moment delight wonder, Surprise ,2/5/2023 19:30, WrappedDelight , Twitter , #Surprise #WonderfulMoment ,25,50, Australia ,2023,2,5,19
+485,489,lost maze curiosity twist turn unveils treasures discovery, Curiosity ,9/22/2018 12:45, MazeDiscovery , Instagram , #Curiosity #TreasuresOfDiscovery ,22,45, India ,2018,9,22,12
+486,490,floating clouds gratitude raindrop blessing shower thankfulness, Gratitude ,12/10/2016 21:15, CloudsOfBlessings , Facebook , #Gratitude #ShowerOfThankfulness ,28,55, Germany ,2016,12,10,21
+487,491,like comet inspiration streaking sky creativity leaving trails brilliance, Inspiration ,5/28/2020 16:00, CometCreativity , Twitter , #Inspiration #BrilliantTrails ,18,35, France ,2020,5,28,16
+488,492,celebration success fireworks accomplishment light night sky triumph, Success ,11/15/2017 22:30, FireworksTriumph , Instagram , #Success #NightSkyTriumph ,22,45, Japan ,2017,11,15,22
+489,493,symphony laughter note key unlocking door boundless happiness, Happiness ,8/2/2021 19:00, LaughterSymphony , Facebook , #Happiness #BoundlessLaughter ,30,60, Brazil ,2021,8,2,19
+490,494,carnival emotions rollercoaster thrill sends heart wild ride, Thrill ,3/28/2019 15:30, EmotionCarnival , Instagram , #Thrill #WildHeartRide ,35,70, South Africa ,2019,3,28,15
+491,495,standing grandeur eiffel tower moment reflect beauty parisian dreams, Reflection ,5/12/2018 17:30, ParisDreamer , Twitter , #Reflection #ParisianDreams ,28,55, France ,2018,5,12,17
+492,496,lost enchantment disneyland ride journey realm childhood fantasies, Enchantment ,9/28/2022 15:45, DisneylandExplorer , Instagram , #Enchantment #ChildhoodFantasies ,30,60, USA ,2022,9,28,15
+493,497,exploring wonders ferrari world roar engines creating symphony speed, Excitement ,11/10/2019 14:00, FerrariSpeedster , Facebook , #Excitement #SymphonyOfSpeed ,22,45, Italy ,2019,11,10,14
+494,498,amidst tulip fields keukenhof tapestry colors paints soul springtime joy, Joy ,4/2/2021 18:20, KeukenhofAdventurer , Instagram , #Joy #SpringtimeColors ,35,70, Netherlands ,2021,4,2,18
+495,499,wandering historical streets kyoto step journey heart japans traditions, Exploration ,8/22/2017 21:30, KyotoAdventurer , Twitter , #Exploration #JapaneseTraditions ,18,35, Japan ,2017,8,22,21
+496,500,embrace grand canyon natures masterpiece moment marvel earths grandeur, Awe ,6/15/2020 16:45, CanyonMarveler , Instagram , #Awe #EarthsGrandeur ,25,50, USA ,2020,6,15,16
+497,501,journeying serenity santorini sunset paints sky hues tranquility, Serenity ,9/10/2016 19:15, SantoriniTraveler , Facebook , #Serenity #SunsetHues ,22,45, Greece ,2016,9,10,19
+498,502,amazed architectural marvels petra stone telling tales ancient civilization, Amazement ,1/28/2023 13:00, PetraExplorer , Twitter , #Amazement #AncientTales ,30,60, Jordan ,2023,1,28,13
+499,503,embarking gondola ride venice canal reflecting romance timeless city, Romance ,4/18/2019 16:30, VeniceRomantic , Instagram , #Romance #TimelessCity ,20,40, Italy ,2019,4,18,16
+500,504,summit machu picchu breathtaking panorama whispers secrets ancient civilizations, Awe ,11/5/2017 22:00, MachuPicchuAdventurer , Facebook , #Awe #AncientCivilizations ,28,55, Peru ,2017,11,5,22
+501,505,heart new york city times square dazzles lights vibrant spectacle urban energy, Excitement ,7/20/2022 21:45, TimesSquareExplorer , Instagram , #Excitement #UrbanEnergy ,35,70, USA ,2022,7,20,21
+502,506,captivated historical charm colosseum stone echoing tales gladiator valor, Captivation ,3/15/2018 17:30, ColosseumAdventurer , Twitter , #Captivation #GladiatorTales ,25,50, Italy ,2018,3,15,17
+503,507,sailing azure waters maldives wave whisper serenity paradise, Serenity ,10/28/2019 14:15, MaldivesSailor , Facebook , #Serenity #ParadiseWhispers ,22,45, Maldives ,2019,10,28,14
+504,508,midst amazon rainforest symphony wildlife creates orchestra natures wonders, Wonder ,6/10/2021 16:00, AmazonExplorer , Instagram , #Wonder #NatureOrchestra ,30,60, Brazil ,2021,6,10,16
+505,509,walking great wall china step testament ancient engineering marvels, Awe ,8/18/2017 19:30, GreatWallWalker , Twitter , #Awe #EngineeringMarvels ,18,35, China ,2017,8,18,19
+506,510,summit mount fuji breathtaking sunrise paints sky hues accomplishment, Accomplishment ,4/15/2020 5:30, FujiSummitAchiever , Facebook , #Accomplishment #SunriseHues ,28,55, Japan ,2020,4,15,5
+507,511,exploring ancient ruins angkor wat stone whispering stories khmer civilization, Exploration ,11/22/2016 13:00, AngkorWatAdventurer , Instagram , #Exploration #KhmerStories ,20,40, Cambodia ,2016,11,22,13
+508,512,skiing slopes swiss alps turn dance majesty snowcapped peaks, Adventure ,1/10/2019 14:45, AlpsSkiAdventurer , Twitter , #Adventure #SnowPeakDance ,22,45, Switzerland ,2019,1,10,14
+509,513,tranquility kyotos bamboo forest whispers ancient zen wisdom echo groves, Tranquility ,2/28/2023 16:20, KyotoBambooSeeker , Facebook , #Tranquility #ZenWisdom ,25,50, Japan ,2023,2,28,16
+510,514,cruising fjords norway icy landscape breathtaking masterpiece natures grandeur, Grandeur ,5/28/2018 18:30, NorwayFjordExplorer , Instagram , #Grandeur #IcyMasterpiece ,22,45, Norway ,2018,5,28,18
+511,515,front row adeles concert note someone like resonates soulstirring emotion, Emotion ,9/15/2022 20:00, AdeleConcertGoer , Instagram , #Emotion #AdeleConcert ,40,80, USA ,2022,9,15,20
+512,516,dancing stars beyoncés live show feeling power single ladies every move, Energy ,7/28/2019 21:30, BeyonceDancer , Twitter , #Energy #BeyonceConcert ,35,70, USA ,2019,7,28,21
+513,517,crowd taylor swift concert lyrics love story create enchanting fairy tale, Enchantment ,5/10/2021 19:45, SwiftieDreamer , Facebook , #Enchantment #TaylorSwift ,30,60, USA ,2021,5,10,19
+514,518,rocking guitar solos queen tribute concert journey back time freddies spirit, Nostalgia ,12/2/2018 22:15, QueenTributeFan , Instagram , #Nostalgia #QueenTribute ,22,45, UK ,2018,12,2,22
+515,519,swaying ed sheerans acoustic melodies serene evening filled perfect moments, Serenity ,8/18/2020 19:00, SheeranMelodyLover , Twitter , #Serenity #EdSheeranConcert ,18,35, UK ,2020,8,18,19
+516,520,immersed pulsating beats bruno mars concert uptown funk becomes city joy, Joy ,3/28/2017 20:30, MarsJoyExplorer , Facebook , #Joy #BrunoMars ,28,55, USA ,2017,3,28,20
+517,521,michael jackson tribute show moonwalking hits celebration king pop, Celebration ,1/15/2022 21:15, MJTributeDancer , Instagram , #Celebration #MJTribute ,25,50, USA ,2022,1,15,21
+518,522,swinging rhythms frank sinatra tribute feeling timeless charm fly moon, Charm ,6/10/2019 18:45, SinatraCharmListener , Twitter , #Charm #SinatraTribute ,22,45, USA ,2019,6,10,18
+519,523,mosh pit metallica concert thunderous chords create symphony headbanging ecstasy, Ecstasy ,3/20/2023 22:30, MetallicaMoshWarrior , Facebook , #Ecstasy #MetallicaConcert ,35,70, USA ,2023,3,20,22
+520,524,experiencing magic coldplay concert fix becomes beacon hope night, Hope ,11/28/2016 19:00, ColdplayHopeSeeker , Instagram , #Hope #ColdplayMagic ,30,60, UK ,2016,11,28,19
+521,525,justin bieber concert infectious beats baby create dance floor unbridled enthusiasm, Enthusiasm ,8/5/2018 20:00, BieberDanceEnthusiast , Instagram , #Enthusiasm #JustinBieber ,40,80, Canada ,2018,8,5,20
+522,526,spotlight lady gaga show costume change metamorphosis creativity artistry, Creativity ,4/15/2021 21:30, GagaArtisticChameleon , Twitter , #Creativity #LadyGaga ,35,70, USA ,2021,4,15,21
+523,527,immersed soulful melodies adele tears flow freely moved emotion hello, Emotion ,11/28/2019 19:45, AdeleMelodyTearjerker , Facebook , #Emotion #AdeleMelodies ,30,60, UK ,2019,11,28,19
+524,528,drenched confetti katy perry concert kaleidoscope colors igniting night sky, Colorful ,6/22/2020 22:00, KatyPerryColorExplosion , Instagram , #Colorful #KatyPerry ,22,45, USA ,2020,6,22,22
+525,529,audience jayz performance lyrics empire state mind become anthem pride, Pride ,9/10/2017 20:15, JayZEmpireListener , Twitter , #Pride #JayZAnthem ,18,35, USA ,2017,9,10,20
+526,530,dancing shakiras rhythmic beats hips swaying hypnotic charm hips dont lie, Hypnotic ,2/28/2022 21:15, ShakiraHipsDancer , Facebook , #Hypnotic #ShakiraRhythms ,28,55, Colombia ,2022,2,28,21
+527,531,u2 concert anthemic chords without create timeless moment connection, Connection ,5/15/2016 19:30, U2ConnectionSeeker , Instagram , #Connection #U2Anthem ,25,50, Ireland ,2016,5,15,19
+528,532,rocking guns n roses show iconic riffs sweet child mine echoing night, Iconic ,12/10/2018 22:30, GunsNRosesRiffRockstar , Twitter , #Iconic #GNRConcert ,22,45, USA ,2018,12,10,22
+529,533,crowd ariana grande concert high notes create euphoric symphony, Euphoria ,1/22/2023 20:00, ArianaEuphoriaChaser , Facebook , #Euphoria #ArianaGrande ,35,70, USA ,2023,1,22,20
+530,534,swaying reggae vibes bob marleys tribute concert chord journey jamaicas soul, Journey ,3/5/2020 18:45, MarleyReggaeTraveler , Instagram , #Journey #BobMarleyTribute ,30,60, Jamaica ,2020,3,5,18
+531,535,captivated spellbinding plot twists audience applauds experiencing rollercoaster emotions movie premiere, Excitement ,10/12/2018 20:00, MovieEnthusiastPremiereAttendee , Twitter , #Excitement #MoviePremiereThrills ,40,80, USA ,2018,10,12,20
+532,536,credits roll profound sense nostalgia washes reminiscent cherished moments classic films, Nostalgia ,6/25/2019 22:15, FilmLoverNostalgiaSeeker , Instagram , #Nostalgia #ClassicFilmMoments ,35,70, UK ,2019,6,25,22
+533,537,streaming latest web series viewer engrossed characters journey feeling sense connection empathy, Engagement ,7/8/2020 19:30, WebSeriesViewerCharacterConnection , Facebook , #Engagement #WebSeriesJourney ,30,60, Canada ,2020,7,8,19
+534,538,film festival indie filmmakers creation receives standing ovation evoking pride sense accomplishment, Pride ,9/18/2017 21:45, IndieFilmmakerFestivalSuccess , Twitter , #Pride #IndieFilmSuccess ,22,45, Australia ,2017,9,18,21
+535,539,watching heartwarming family drama tears flow freely characters overcome challenges leaving viewer warm glow, Touched ,1/15/2021 18:00, DramaEnthusiastHeartwarmingMoments , Instagram , #Touched #FamilyDramaMoments ,28,55, India ,2021,1,15,18
+536,540,oscars actor graciously accepts award radiating joy gratitude recognition outstanding performance, Gratitude ,2/28/2016 20:30, AwardWinningActorOscarsRecipient , Facebook , #Gratitude #OscarWinningMoment ,18,35, USA ,2016,2,28,20
+537,541,discovering hidden gem world documentaries viewer enlightened inspired feeling renewed sense curiosity, Inspiration ,4/20/2022 17:30, DocumentaryEnthusiastHiddenGemFinder , Twitter , #Inspiration #HiddenGemDiscovery ,22,45, France ,2022,4,20,17
+538,542,movie credits roll viewer experiences mix awe contemplation pondering deeper meanings woven storyline, Contemplation ,11/5/2019 21:15, FilmBuffContemplativeViewer , Instagram , #Contemplation #DeepMeanings ,28,55, Germany ,2019,11,5,21
+539,543,bingewatching thrilling crime series suspense keeps viewer edge seat creating rush adrenaline, Suspense ,7/12/2015 22:00, CrimeSeriesEnthusiastThrillSeeker , Facebook , #Suspense #CrimeSeriesThrills ,35,70, Japan ,2015,7,12,22
+540,544,closing scene unfolds sense satisfaction washes completing cinematic journey profound fulfilling ending, Satisfaction ,9/10/2020 19:45, FilmCriticSatisfactionSeeker , Twitter , #Satisfaction #FulfillingEnding ,22,45, Brazil ,2020,9,10,19
+541,545,celebrating historic victory world cup nation erupts joy united triumph football team, Joy ,7/15/2018 21:30, FootballFanWorldCupCelebration , Instagram , #Joy #WorldCupTriumph ,40,80, Brazil ,2018,7,15,21
+542,546,olympics athletes perseverance shines earning gold medal inspiring generation remarkable achievement, Inspiration ,8/8/2020 19:45, OlympicsEnthusiastGoldMedalWinner , Twitter , #Inspiration #OlympicAchievement ,35,70, USA ,2020,8,8,19
+543,547,cricket championship nailbiting finish leaves fans edge seats experiencing rollercoaster emotions, Excitement ,6/25/2019 22:15, CricketFanChampionshipThrills , Facebook , #Excitement #CricketChampionship ,30,60, India ,2019,6,25,22
+544,548,witnessing recordbreaking marathon spectators filled awe admiration endurance dedication runners, Admiration ,11/7/2021 17:30, MarathonSpectatorRecordBreaking , Instagram , #Admiration #MarathonRecords ,22,45, Kenya ,2021,11,7,17
+545,549,tennis grand slam fierce rivalry unfolds captivating fans display skill sportsmanship world stage, Captivation ,9/10/2017 20:15, TennisEnthusiastGrandSlamDrama , Twitter , #Captivation #TennisRivalry ,28,55, UK ,2017,9,10,20
+546,550,cheering underdog basketball finals crowd erupts applause team defies odds claim championship title, Triumph ,6/20/2022 21:00, BasketballFanUnderdogTriumph , Facebook , #Triumph #BasketballFinals ,18,35, USA ,2022,6,20,21
+547,551,golf tournament golfers precision focus lead stunning victory leaving spectators awe exceptional skill, Awe ,4/10/2016 18:30, GolfEnthusiastPrecisionVictory , Instagram , #Awe #GolfVictory ,22,45, Scotland ,2016,4,10,18
+548,552,experiencing thrill highspeed formula 1 race fans edge seats drivers compete championship, Thrill ,11/24/2019 19:45, F1FanHighSpeedRaceExcitement , Twitter , #Thrill #Formula1Championship ,28,55, Germany ,2019,11,24,19
+549,553,cycling world championship climber conquers challenging terrains symbolizing determination achievement odds, Determination ,9/28/2015 22:30, CyclingEnthusiastWorldChampion , Facebook , #Determination #CyclingChampion ,35,70, Italy ,2015,9,28,22
+550,554,witnessing heartwarming comeback hockey finals fans share tears joy team secures historic victory adversity, Heartwarming ,12/12/2020 20:00, HockeyFanComebackVictory , Instagram , #Heartwarming #HockeyFinalsComeback ,22,45, Canada ,2020,12,12,20
+551,555,series defeats soccer team faces disappointment struggling find silver lining challenging season, Disappointment ,11/2/2019 18:45, SoccerFanTeamDefeats , Twitter , #Disappointment #SoccerDefeats ,40,80, Brazil ,2019,11,2,18
+552,556,tennis tournament highly anticipated player experiences setback leaving fans shock questioning unforeseen turn events, Frustration ,7/10/2018 21:15, TennisEnthusiastUnexpectedSetback , Instagram , #Frustration #TennisSetback ,35,70, USA ,2018,7,10,21
+553,557,facing defeat championship boxer reflects challenges vowing return stronger determined next bout, Reflection ,9/18/2020 19:30, BoxingFanChampionshipDefeat , Facebook , #Reflection #BoxingDefeat ,30,60, UK ,2020,9,18,19
+554,558,midst cycling race tire blowout leads frustration cyclist valiantly tries overcome unexpected obstacle, Obstacle ,5/15/2017 22:00, CyclingEnthusiastTireBlowout , Twitter , #Obstacle #CyclingFrustration ,22,45, France ,2017,5,15,22
+555,559,gymnasts unexpected fall routine sparks wave sympathy audience highlighting vulnerability sports, Sympathy ,4/5/2021 20:15, GymnasticsFanRoutineFall , Instagram , #Sympathy #GymnasticsFall ,28,55, Japan ,2021,4,5,20
+556,560,golf tournament missed crucial putt results defeat causing golfer reflect pressure highstakes competition, Pressure ,8/20/2016 18:30, GolfEnthusiastMissedPutt , Facebook , #Pressure #GolfDefeat ,18,35, USA ,2016,8,20,18
+557,561,experiencing series losses basketball season team grapples frustration determined turn tide renewed effort, Renewed Effort ,2/12/2019 19:45, BasketballFanTeamLosses , Twitter , #RenewedEffort #BasketballStruggles ,22,45, Canada ,2019,2,12,19
+558,562,despite meticulous training swimmer faces disappointment splitsecond miscalculation costs lead crucial race, Miscalculation ,6/28/2015 20:00, SwimmingEnthusiastRaceSetback , Instagram , #Miscalculation #SwimmingDisappointment ,28,55, Australia ,2015,6,28,20
+559,563,weightlifters failed attempt personal record results frustration highlighting challenging nature pushing physical limits, Challenge ,1/8/2022 21:30, WeightliftingFanFailedRecord , Facebook , #Challenge #WeightliftingFailure ,35,70, Germany ,2022,1,8,21
+560,564,midst soccer match unexpected goal creates moment despair player teammates console encourage, Despair ,12/15/2018 20:15, SoccerPlayerOwnGoalMoment , Twitter , #Despair #OwnGoal ,22,45, Spain ,2018,12,15,20
+561,565,serene beauty sunset nature unfolds canvas colors evoking sense tranquility wonder, Tranquility ,7/10/2021 19:00, NatureEnthusiastSunsetWonder , Instagram , #Tranquility #SunsetBeauty ,40,80, Canada ,2021,7,10,19
+562,566,embarking spontaneous road trip traveler discovers hidden gems creating memories cherished lifetime, Adventure ,9/28/2019 20:30, TravelEnthusiastRoadTripDiscovery , Twitter , #Adventure #RoadTripMemories ,35,70, USA ,2019,9,28,20
+563,567,amidst bustling city quiet café becomes sanctuary reflection cup coffee brings solace wandering mind, Solace ,3/15/2022 18:45, UrbanExplorerCafeSolitude , Facebook , #Solace #CafeReflection ,30,60, France ,2022,3,15,18
+564,568,exploring vibrant street art cultural neighborhood mural tells story infusing city creativity expression, Creativity ,11/5/2017 21:15, ArtEnthusiastStreetArtExploration , Instagram , #Creativity #StreetArtVibes ,22,45, Brazil ,2017,11,5,21
+565,569,world science breakthrough discovery unfolds pushing boundaries knowledge opening new frontiers exploration, Breakthrough ,5/20/2020 16:30, ScienceEnthusiastDiscoveryMoment , Twitter , #Breakthrough #ScientificDiscovery ,28,55, Germany ,2020,5,20,16
+566,570,connecting melody live orchestra music enthusiast experiences symphony resonates deep within soul, Harmony ,8/22/2016 19:45, MusicLoverLiveOrchestraExperience , Facebook , #Harmony #OrchestraMelody ,18,35, UK ,2016,8,22,19
+567,571,embracing aroma freshly baked bread home chef finds joy art baking creating delicious memories loved ones, Joy in Baking ,4/10/2023 17:15, HomeBakerDeliciousMemories , Instagram , #JoyInBaking #HomemadeDelights ,22,45, India ,2023,4,10,17
+568,572,wandering historical museum history enthusiast becomes immersed tales past envisioning bygone eras, Envisioning History ,12/18/2015 18:00, HistoryBuffMuseumExploration , Twitter , #EnvisioningHistory #MuseumTales ,28,55, Italy ,2015,12,18,18
+569,573,realm literature captivating novel transports reader distant lands weaving tapestry imagination escape, Imagination ,10/8/2021 20:30, BookwormCaptivatingNovelEscape , Facebook , #Imagination #LiteraryEscape ,35,70, Japan ,2021,10,8,20
+570,574,capturing essence bustling market photographer freezes moments time frame telling unique vibrant story, Vibrancy ,3/22/2019 21:45, PhotographyEnthusiastMarketMoments , Instagram , #Vibrancy #MarketStories ,22,45, Australia ,2019,3,22,21
+571,575,underneath city lights dancer expresses emotions graceful movements creating mesmerizing performance night sky, Mesmerizing ,6/15/2018 22:00, DanceEnthusiastCityNightPerformance , Twitter , #Mesmerizing #NightDancePerformance ,40,80, USA ,2018,6,15,22
+572,576,heart bustling market street food connoisseur indulges culinary adventure savoring diverse flavors aromas, Culinary Adventure ,8/28/2019 19:30, FoodieMarketStreetFoodExploration , Instagram , #CulinaryAdventure #StreetFoodDelights ,35,70, Thailand ,2019,8,28,19
+573,577,first snowflake descends winter enthusiast eagerly prepares season frosty delights anticipating magic snowcovered landscapes, Winter Magic ,12/1/2022 17:45, SnowLoverWinterEnthusiast , Facebook , #WinterMagic #SnowyLandscapes ,30,60, Canada ,2022,12,1,17
+574,578,amidst pages captivating mystery novel reader unravels clues secrets experiencing thrilling journey suspense revelation, Thrilling Journey ,4/10/2017 21:15, MysteryBookwormSuspensefulRead , Twitter , #ThrillingJourney #MysteryNovel ,22,45, UK ,2017,4,10,21
+575,579,surrounded vibrant colors flower garden gardener nurtures blossoms finding joy beauty natures everchanging canvas, Nature's Beauty ,5/15/2020 18:30, GardeningEnthusiastFlowerGarden , Instagram , #NaturesBeauty #FloralJoy ,28,55, Australia ,2020,5,15,18
+576,580,astronomy observatory stargazer marvels vastness cosmos contemplating mysteries hidden within celestial expanse, Celestial Wonder ,9/22/2016 20:00, AstronomyEnthusiastStargazing , Facebook , #CelestialWonder #Stargazing ,18,35, USA ,2016,9,22,20
+577,581,engulfed aroma freshly brewed coffee writer finds inspiration every sip embarking journey creativity prose, Creative Inspiration ,2/12/2023 19:45, CoffeeLoverWritersRetreat , Twitter , #CreativeInspiration #CoffeeJourney ,22,45, France ,2023,2,12,19
+578,582,realm fashion designer unveils collection tells story blending innovation tradition runway creativity, Runway Creativity ,11/10/2015 21:00, FashionEnthusiastDesignerShowcase , Instagram , #RunwayCreativity #FashionInnovation ,28,55, Italy ,2015,11,10,21
+579,583,waves crash shore surfer embraces thrill riding oceans energy capturing essence freedom wave, Ocean's Freedom ,7/20/2021 18:15, SurfingEnthusiastWaveRider , Facebook , #OceansFreedom #SurfingThrills ,22,45, Brazil ,2021,7,20,18
+580,584,exploring historical architecture ancient city traveler transported bygone era monument whispers tales past, Whispers of the Past ,4/18/2019 20:30, HistoryExplorerAncientCityTour , Twitter , #WhispersOfThePast #HistoricalTour ,35,70, Greece ,2019,4,18,20
+581,585,successfully avoided eye contact crush hallway mission accomplished teencrush stealthmode, Excitement ,5/20/2023 19:45, CrushAvoider , Twitter , #CrushStruggles #AvoidingEyeContact ,15,30, USA,2023,5,20,19
+582,586,ran snacks movie marathon crisis level emergency movienightstruggles teenproblems, Boredom ,5/21/2023 21:00, MovieBuff , Instagram , #SnackCrisis #TeenLife ,18,35, Canada,2023,5,21,21
+583,587,spent hour choosing perfect filter selfie struggle instagram aesthetic real selfiequeen teenvibes, Joy ,5/22/2023 14:30, SelfieAddict , Facebook , #SelfieStruggle #TeenConfessions ,22,45, UK,2023,5,22,14
+584,588,lost headphones vanish thin air headphonemystery teenlife, Frustration ,5/23/2023 16:45, AudioExplorer , Twitter , #TeenProblems #LostHeadphones ,20,40, USA,2023,5,23,16
+585,589,decided study exams ended making memes studying instead procrastination level expert procrastinationnation teenconfessions, Surprise ,5/24/2023 13:15, MemeCreator , Instagram , #StudyingMemes #TeenLife ,25,50, Canada,2023,5,24,13
